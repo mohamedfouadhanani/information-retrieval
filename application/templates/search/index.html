@@ -1,0 +1,90 @@
+{% extends 'layout.html' %} {% block main %}
+<main class="w-3/4 mx-auto">
+	<header class="flex justify-between items-center p-2">
+		<h1 class="font-bold text-4xl capitalize select-none">search</h1>
+		<nav class="capitalize flex justify-between space-x-4">
+			<a href="/documents" class="text-gray-600 hover:text-gray-400">
+				documents
+			</a>
+			<a href="/terms" class="text-gray-600 hover:text-gray-400">terms</a>
+			<a href="/search" class="font-bold text-gray-600 hover:text-gray-400">
+				search
+			</a>
+			<a href="/configuration" class="text-gray-600 hover:text-gray-400">
+				configuration
+			</a>
+		</nav>
+	</header>
+	<article class="p-2 space-y-6">
+		<!-- QUERY -->
+		<section class="space-y-1">
+			<h1 class="font-bold capitalize select-none">
+				what are you looking for?
+			</h1>
+			<form action="/search" method="post">
+				<section class="flex">
+					<input
+						required
+						autocomplete="off"
+						type="text"
+						value="{{ query }}"
+						name="query"
+						placeholder="type in a query"
+						class="flex-1 border-2 border-black focus:outline-none rounded-l p-2"
+					/>
+					<button
+						class="bg-black text-white hover:bg-gray-900 font-bold p-2 rounded-r"
+					>
+						<svg
+							xmlns="http://www.w3.org/2000/svg"
+							viewBox="0 0 24 24"
+							stroke-width="2"
+							stroke="currentColor"
+							class="w-6 h-6"
+						>
+							<path
+								stroke-linecap="round"
+								stroke-linejoin="round"
+								d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z"
+							/>
+						</svg>
+					</button>
+				</section>
+			</form>
+		</section>
+		<!-- DOCUMENTS -->
+		<section class="space-y-4">
+			<header>
+				<h1 class="font-bold capitalize select-none">relevent documents</h1>
+				{% if duration %}
+				<h2 class="text-gray-500 capitalize select-none text-sm">
+					query took <span class="font-bold">{{ duration }}</span> seconds
+				</h2>
+			</header>
+			{% endif %}
+			<section class="space-y-4">
+				{% for document in documents %}
+				<a
+					href="/document/{{ document['identifier'] }}"
+					target="_blank"
+					class="border-2 border-black rounded p-2 flex justify-between items-start"
+				>
+					<div class="flex-col">
+						<span class="block font-bold capitalize">title</span>
+						<span class="block text-gray-500 text-sm">
+							{{ document["title"] }}
+						</span>
+					</div>
+					<div class="flex-col text-right">
+						<span class="block font-bold capitalize">similarity</span>
+						<span class="block text-gray-500 text-sm">
+							{{ document["similarity"] }}
+						</span>
+					</div>
+				</a>
+				{% endfor %}
+			</section>
+		</section>
+	</article>
+</main>
+{% endblock %}

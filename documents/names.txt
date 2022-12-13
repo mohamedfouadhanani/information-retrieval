@@ -1,0 +1,1460 @@
+1$ 18 Editions of the Dewey Decimal Classifications
+2$ Use Made of Technical Libraries
+3$ Two Kinds of Power An Essay on Bibliographic Control
+4$ Systems Analysis of a University Library;  final report and research project
+5$ A Library Management Game: a report on a research project
+6$ Abstracting Concepts and Methods
+7$ Academic Library Buildings A Guide to Architectural Issues and Solutions
+8$ The Academic Library Essays in Honor of Guy R. Lyle
+9$ Access to Libraries in College
+10$ Access to Periodical Resources
+11$ The Acquisition of Library Materials
+12$ Acquisition from the 3rd World .A Clarke, D
+13$ AD695049
+14$ The Administration of the College Library
+15$ Information Flow in Research and Development Laboratories
+16$ Adopting the Library of Congress Classification System
+17$ Adventures in Librarianship
+18$ Selective Dissemination of Information
+19$ Adventures in Theory of Languages
+20$ The Age of Jewett: Charles Coffin Jewett and American Librarianship 1841-1868
+21$ On Aggression
+22$ Education and Manpower for Librarians
+23$ Pilot Inventory of Library Holdings .A Braden, I
+24$ Libraries and Technological Forces Affecting Them .A Cuadra, C
+25$ Algebraic Systems
+26$ Indexing and Abstracting by Association
+27$ Cost Analysis and Simulation Procedures for the Evaluation of Large Information Systems
+28$ A Note on the Pseudo-Mathematics of Relevance
+29$ Some Questions Concerning "Information Need"
+30$ Vocabulary Building and Control Techniques
+31$ Attendance and Use of the Science Library at M.I.T.
+32$ Information Gathering Patterns and Creativity A study of research chemists in an industrial research laboratory
+33$ The "Half-Life" of Some Scientific and Technical Literatures .A Burton, R.E.
+34$ Keyword-In-Context Index for Technical Literature (KWIC Index)
+35$ Comparisons of Four Types of Lexical Indicators of Content
+36$ Recorded Use of Books in the Yale Medical Library
+37$ The World's Technical Journal Literature: An Estimate of Volume, Origin, Language, Field, Indexing, and Abstracting
+38$ Machinelike Indexing by People
+39$ Bibliographic Coupling Between Scientific Papers
+40$ Worldwide Census of Scientific and Technical Serials .A Gottschalk, Charles M.
+41$ New Factors in the Evaluation of Scientific Literature  Through Citation Indexing .A Garfield, E.
+42$ The Notion of Relevance
+43$ The Consistency of Human Judgments of Relevance .A Resnick, A.
+44$ The Distribution of Term Usage in Manipulative Indexes .A Houston, Nona
+45$ Measuring the Reliability of Subject Classification by Men and Machines
+46$ A Quantitative Measure of User Circulation Requirements and Its Possible Effect on Stack Thinning and Multiple Copy Determination
+47$ Improvement of the Selectivity of Citation Indexes to Science Literature Through Inclusion of Citation Relationship Indicators
+48$ The Norms of Citation Behavior: Prolegomena to the Footnote
+49$ Adaptive Information Dissemination .A Sage, C.R. .A Anderson, R.R.
+50$ Comparison of the Results of Bibliographic Coupling and  Analytic Subject Indexing
+51$ An Experiment in Automatic Indexing
+52$ Comparative Indexing: Terms Supplied by Biomedical  Authors and by Document Titles .A Schultz, Claire K. .A Schultz, Wallace L.
+53$ The KWIC Index Concept: A Retrospective View
+54$ Simulation of Boolean Logic Constraints Through the Use of Term Weights
+55$ Bradford's Law and the Keenan-Atherton Data
+56$ Computer-Produced Micro-Library Catalog .A Kozumplik, W
+57$ Distribution of Indexing Terms for Maximum Efficiency   of Information Transmission .A Zunde, Pranas
+58$ Relevance Disagreements and Unclear Request Forms
+59$ Opinion Paper
+60$ Information Science: What Is It?
+61$ Expected Search Length: A Single Measure of Retrieval Effectiveness  Based on the Work Ordering Action of Retrieval Systems
+62$ A Literature Search and File Organization Model
+63$ The Publication Inflation
+64$ A Computer-Based Serials Control System for a Large Biomedical Library
+65$ A Study of Searching the Eye Research Literature
+66$ Psychology and Information
+67$ The Use of Simulation in Studying Information Storage and Retrieval Systems .A Baker, Norman R.
+68$ Retrieval of Answer-Providing Documents
+69$ Statistical Generation of a Technical Vocabulary
+70$ On Understanding User Choices: Textual Correlates of Relevance Judgements .A Gifford, Carolyn
+71$ Word-Word Associations in Document Retrieval Systems
+72$ A Comparison Between Manual and Automatic Indexing Methods
+73$ Effectiveness of Information Retrieval Methods
+74$ Managerial Cost Accounting for a Technical Information Center
+75$ MEDLARS: Report on the Evaluation of Its Operating Efficiency
+76$ Biomedical Literature: Analysis of Journal Articles    Collected by a Radiation- and Cell-Biologist
+77$ The Effectiveness of Automatically Generated Weights and   Links in Mechanical Indexing .A Artandi, Susan
+78$ On-Line Access to Information: NSF as an Aid to the Indexer/Cataloger
+79$ Computer Selection of Keywords Using Word-Frequency Analysis .A Carroll, John M.
+80$ A Graphic Catalog Card Index
+81$ Indexing Consistency and Quality .A Zunde, Pranas
+82$ Is Interindexer Consistency A Hobgoblin?
+83$ The Cost Analysis of Document Surrogation:  A Literature Review
+84$ Some Independent Agreements and Resolved Disagreements     About Answer-Providing Documents
+85$ Information Science: Toward the Development of a True Scientific Discipline
+86$ A Comparison of a Keyword from Title Index with a Single Access Point   per Document Alphabetic Subject Index .A Jahoda, G.
+87$ A Core Nursing Library for Practitioners
+88$ Patterns of Name Ordering among Authors of Scientific Papers: A study of Social Symbolism and Its Ambiguity
+89$ Professional Standing and the Reception of Scientific Discoveries
+90$ Involving, Computerizing, Personalizing
+91$ Williams & Wilkins - The Great Leap Backward
+92$ OCLC for You - and ME?!
+93$ The American Occupational Structure
+94$ American Overseas Library Technical Assistance, 1940-1970
+95$ Scientific Communication:  Five Themes from Social Science Research
+96$ Communication Patterns in Applied Technology
+97$ Bibliographical Citation Characteristics of the Psychological Journal Network in 1950 and in 1960
+98$ Scientific Communication: Its Role in the Conduct of Research and Creation of Knowledge
+99$ Ecological Correlations and the Behavior of Individuals
+100$ Priorities in Scientific Discovery: A Chapter in the Sociology of Science
+101$ Social Factors in the Origins of a New Science: The Case of Psychology .A Ben-David, Joseph
+102$ Scientific Output and Recognition:      A Study in the Operation of the Reward System in Science .A Cole, Stephen
+103$ Nobel Laureates in Science:  Patterns of Productivity, Collaboration, and Authorship
+104$ Visibility and the Structural Bases of Awareness of Scientific Research .A Cole, Stephen
+105$ Social Structure in a Group of Scientists:  A Test of the "Invisible College" Hypothesis
+106$ Growth and Decay Curves in Scientific Citations .A MacRae, Duncan Jr. .W    In a rapidly advancing scientific discipline, new contributions will  supersede older ones.. This selection in favor of recent literature should be observable in the distribution of footnote citations in a given discipline, by age of article cited.. However, the age distribution of citations also depends on the rate of growth of the disciplinary literature.. The effect of growth of  the literature and of selection favoring recent articles can be separated, if certain assumptions hold, by use of an exponential model that expands and  clarifies earlier findings by Price.. This model provides a reasonably good fit to age-distributions of footnotes in several disciplines, and its application  suggest that citations  in sociology tend to refer to older articles than those in the natural sciences.
+107$ The Structure of Scientific Fields and    the Functioning of University Graduate Departments .A Lodahl, Janice Beyer
+108$ Productivity Differences among Scientists:   Evidence for Accumulative Advantage .A Allison, Paul D.
+109$ The Distribution of Social and Cultural Properties in Informal Communication  Networks Among Biological Scientists
+110$ The Gatekeepers of Science:  Some Factors Affecting the Selection of Articles of Scientific Journals
+111$ Bibliographical Reference Patterns in Core Sociological Journals, 1965-1966
+112$ Sociology Today:  Lacunae, Emphases, and Surfeits
+113$ Measuring the Quality of Sociological Research: Problems in the Use of the Science Citation Index
+114$ The Analysis of Information Systems
+115$ Analysis of Library User Circulation Requirements
+116$ The Documentation of Chemical Research .A Fugmann, R. .A Braun, W.
+117$ TOSAR - A Topological method for the Representation of Synthetic and  Analytical Relations of Concepts
+118$ Animal Dispersion in Relation to Social Behavior
+119$ Information Networks
+120$ Design and Evaluation of Information Systems
+121$ Document Dissemination
+122$ Information Networks
+123$ Annual Reviews of Information Science and Technology .A Cuadra, C
+124$ The User Interface in Interactive Systems
+125$ Machine-Readable Bibliographic Data Bases
+126$ Annual Reviews of Information Science and Technology .A Cuadra, C
+127$ Use of Machine-Readable Data Bases
+128$ Design and Evaluation of Information Systems
+129$ Generation and Uses of Machine-Readable Data Bases
+130$ Cooperation in Information Activities Through International Organizations .A Adams, S. Werdel,J
+131$ Introduction to the ADI Annual Review .A Cuadra, C
+132$ Information Needs and Uses in Science and Technology
+133$ The Annual Review of Information Science and Technology .A Cuadra, C
+134$ Evaluation of Information Systems and Services
+135$ Design of Information Systems and Services
+136$ The Annual Review of Information Science and Technology .A Cuadra, C
+137$ Information Needs and Uses
+138$ The Annual Review of Information Science and Technology .A Cuadra, C
+139$ Information Needs and Uses
+140$ Annual Review of Information Science and Technology .A Cuadra, C
+141$ Application of Computer Technology to Library Process: a syllabus
+142$ Archives and Library Relations
+143$ The Area Specialist Bibliographer: an inquiry into his role
+144$ The Art of Computer Programming
+145$ ASIDIC Survey of Information Center Services
+146$ The Testing of Index Language Devices
+147$ Research on Users' Needs: Where is it Getting Us?
+148$ Fair (Fast Access Information Retrieval) Project;  Aims and Methods .A Pickford, A.G
+149$ The Cranfield Tests on Index Language Devices
+150$ Current Awareness Searches on CT, CBAS and ASCA .A Abbot, M.T.J. Hunter, P.S. Simkins, M
+151$ Thesaurus Compilation Methods:  A Literature Review
+152$ Organizational Aspects of Information Flow in Technology
+153$ Criteria for Evaluating Technical Library Effectiveness
+154$ The UDC in its International Aspects .A Lloyd, G
+155$ Subject Relations in Science/Technology Literature
+156$ Letter to the Editor:  Assessment of Information Services
+157$ On the Design of Information Systems for Human Beings
+158$ Standard Costing for Information Systems: Background to a Current Study
+159$ An Information Retrieval Language for MARC
+160$ Analysis and Organization of Knowledge for Retrieval
+161$ User Studies:  A Review of the Literature from 1966 to 1970
+162$ Library and Information Science Abstracts: The First Two Years
+163$ The Information Uses and Needs of Social Scientists: An Overview of INFROSS
+164$ SDI:  Some Economic and Organizational Aspects
+165$ The Theoretical Foundation of the IDC-system:   Six Postulates for Information Retrieval
+166$ The Future of Scientific and Technological Publications .A Smailes, A
+167$ Rationalization of Serial Holdings in Special Libraries .A Houghton, B.
+168$ Aspects of the Theory of Syntax
+169$ The Assault on Privacy
+170$ An Assessment of Quality in Graduate Education
+171$ The Association of American Library Schools, 1915-1968: An Analytical History
+172$ As We May Think
+173$ Authoritarian Personality
+174$ Automated Language Processing
+175$ Automatic Information, Organization and Retrieval
+176$ Automated Keyword Classification for Information Retrieval
+177$ Automation in Libraries
+178$ The Automation Survey: Background and Conclusions
+179$ Automatic information, organization and retrieval
+180$ Automated Information-Retrieval Systems (IRS)
+181$ Medical School Library Statistics
+182$ The Contemporary Medical Society Library
+183$ Analysis of One Year's Circulation at the Downstate Medical Center Library
+184$ How Biomedical Investigators Use Library Books
+185$ An Investigation of the Educational Needs of Health Sciences Library Manpower:   I. Definition of the Manpower Problem and Research Desing
+186$ An Investigation of the Educational Needs of Health Science Library Manpower:   II. Health-Related Institutions and Their Library Resources
+187$ An Investigation of the Educational Needs of Health Sciences Library Manpower:    III. Manpower Supply and Demand in Health Sciences Libraries .A Rothenberg, Lesliebeth .A Kronick, David A.
+188$ An Investigation of the Educational Needs of Health Sciences Library Manpower:    IV. Characteristics of Manpower in Health Sciences Libraries .A Rothenberg, Lesliebeth .A Rees, Alan M.
+189$ Selected list of Books and Journals for the Small Medical Library
+190$ MEDLINE Evaluation Study
+191$ MEDLEARN: An Orientation to MEDLINE .A Soben, Phyllis
+192$ A Cooperative Serial Acquisition Program: Thoughts on a Response to Mounting Fiscal Pressures
+193$ Use of Medical and Biological Journals in the Yale Medical Library
+194$ The Evaluation of Published Indexes and Abstract Journals:       Criteria and Possible Procedures
+195$ World Biomedical Journals, 1951-60:      A Study of the Relative Significance of 1,388 Titles Indexed in      Current List of Medical Literature
+196$ Basic Journal List for Small Hospital Libraries
+197$ AIM-TWX service at the University of Virginia:        A Review and Evaluation
+198$ Choosing Physiology Journals
+199$ Statistical Bibliography in the Health Sciences
+200$ Mechanization of Library Procedures in the Medium-sized Medical Library
+201$ Moderately and Heavily Used Biomedical Journals .A Fleming, Thomas P.
+202$ Medical Libraries and the Assessment of User Needs
+203$ Analysis of Recorded Biomedical Book and Journal Use in the Yale Medical Library Part I. Date and Subject Relations .A Stangl, Peter
+204$ Analysis of Recorded Biomedical Book and Journal Use in the Yale Medical Library Part II. Subject and User Relations .A Stangl, Peter
+205$ The Circulation Analysis of Serial Use:  Numbers Game or Key to Service?
+206$ Development of Methodologic Tools for Planning and  Managing Library Services: I. Project Goals and Approach .A Orr, Richard H. .A Pings, Vern M. .A Pizer, Irwin H.
+207$ Development of Methodologic Tools for Planning and Managing Library Services: II. Measuring a Library's Capability for Providing Documents .A Orr, Richard H. .A Pings, Vern M. .A Pizer, Irwin H. .A Olson, Edwin E.
+208$ Development of Methodologic Tools for Planning and Managing Library Services: III. Standardized Inventories of Library Services .A Orr, Richard H. .A Pings, Vern M. .A Olson, Edwin E.
+209$ Survey of the Card Catalog in Medical Libraries
+210$ Survey of Medical Literature Borrowed from the National Lending Library for Science and Technology .A Wood, David N.
+211$ A Regional Medical Library Network
+212$ Thesaural Problems in an On-Line System
+213$ The Role of the Medical Librarian in SDI Systems
+214$ Library Participation in a Biomedical Communication and Information Network .A Bridegam, Willis E., Jr.
+215$ Selected Reference Aids for Small Medical Libraries
+216$ Coordination of Regional Libraries with Regional Medical Program Projects
+217$ User Services Offered By Medical School Libraries in 1968: Results of a National Survey Employing New Methodology .A Orr, Richard H. .A Bloomquist, Harold .A Cruzat, Gwendolyn S.
+218$ The National Biomedical Communications Network as a Developing Structure
+219$ Selected Lists of Journals for the Small Medical Library:  A Comparative Analysis
+220$ The Medical Library Assistance Act:  An Analysis of the NLM Extramural Programs, 1965-1970 .A Cummings, Martin M.
+221$ A Bookshelf in Public Health, Medical Care, and Allied Fields .A La Rocco, August
+222$ Review of Criteria Used to Measure Library Effectiveness .A Evans, Edward .A Borko, Harold
+223$ Document Delivery Capabilities of Major Biomedical Libraries in 1968: Results of a National Survey Employing Standardized Tests .A Orr, Richard H.
+224$ The Implementation, Evaluation, and Refinement of a Manual SDI Service
+225$ A Method of Estimating the In-House Use of the Periodical Collection in the University of Minnesota Bio-Medical Library
+226$ A Behavioral Approach to Historical Analysis
+227$ A Behavioral Theory of the Firm
+228$ A Mathematical Theory of Communication
+229$ A Mathematical Theory of Communication
+230$ Between MLS and PhD; a Study of Sixth-Year Specialist Programs in Accredited Library Schools
+231$ Bibliographic Control of Nonprint Media
+232$ Bibliographic Control of Microforms
+233$ On a Class of Skew Distribution Functions .A Simon, H
+234$ Book Availability and the Library User
+235$ Book Catalogs
+236$ Book Publishing:  What it Is, What it Does
+237$ Book Selection of Censorship
+238$ Book Selection and Censorship
+239$ Buyers and Borrowers
+240$ Books for Junior College Libraries
+241$ A Brief guide to Sources of Scientific and Technical Information
+242$ Building Library Collections
+243$ CAN/DI system:  User reaction to a computer and information retrieval system for Canadian scientists and technologists
+244$ Case Studies in Library Computer Systems
+245$ Case Studies in Systems Analysis in a University Library
+246$ Cataloging Rules ad Principles .A Lubetzky, S. .W   The present study was undertaken pursuant to an assignment by the Library of Congress.  The author was directed to prepare, for the Board on Cataloging Policy and Research of the A.L
+247$ Cataloging U.S.A.
+248$ CATV and its Implication
+249$ Centralized Book Processing
+250$ Centralized Processing for Academic Libraries; final report of the Colorado Academic Libraries Book Processing Center; the first six months of operation
+251$ Carl H. Milam and the American Library Association
+252$ Chemical and Engineering News .A Tate, F
+253$ World's Chemical Literature Continues to Expand
+254$ Chemical Information Systems
+255$ What do Chemists Read?
+256$ The Civic Culture .A Almond, G
+257$ Classification for a General Index Language
+258$ Classification and Indexing in Science
+259$ Classification and Indexing in Science
+260$ Classification Practice in Britain.  Report on a survey of classification opinion and practice in Great Britain, with particular reference to the Dewey Decimal Classification
+261$ Classification Scheme for Law Books
+262$ Classification and Subject Index for a Library
+263$ Classification Catalogue Code
+264$ Cleaning and Processing Bindings and Related Materials
+265$ Code of Cataloging Rules
+266$ Quantitative Criteria for Adequacy of Academic Library Collection .A Clapp, Verner W.
+267$ System Analysis in University Libraries
+268$ Subject Specialists in a University Library
+269$ Sampling and Short-Period Usage in the Purdue Library
+270$ Conflict in Libraries
+271$ Determining and Allocating Book Funds for Current Domestic Buying
+272$ Professionalism Reconsidered .A Bundy, Mary Lee
+273$ The Bottomless Pit, or the Academic Library as Viewed from the   Administration Building
+274$ Question-Negotiation and Information Seeking in Libraries
+275$ Measuring Classified Circulation According to Curriculum
+276$ The Title Catalog: A Third Dimension
+277$ An Allocation Formula Derived from a Factor Analysis of Academic Department .A McGrath, William E. .A Huntsinger, Ralph C.
+278$ Random Sampling: a Tool for Library Research
+279$ Program Budgeting and Cost Benefit Analysis in Library
+280$ User Circulation Satisfaction vs. Size of Holdings at Three Academic  Libraries
+281$ The Economic Goal of Library Automation
+282$ Classifying Courses in the University Catalog .A McGrath, William E.
+283$ Academic Status for College and University Librarians -  Problems and Prospects
+284$ Automation Stops Here: A Case for Man-Made Book Collections
+285$ Modernizing the University Library Structure
+286$ User's Reaction to Microfiche A Preliminary Study
+287$ Major Decision Points in Labrary Automation
+288$ An Approach to Performance Budgeting at the Florida Atlantic   University Library
+289$ The Great Gas Bubble Prick't; or, Computers Revealed - by a Gentleman of Quality
+290$ Correlation the Subjects of Books Taken Out Of and Books Used Within an  Open-Stack Library
+291$ A Generalized Methodology for Library Systems Analysis
+292$ Cost Accounting and Analysis for University Libraries
+293$ Change in Academic Libraries
+294$ Key Factors of Circulation System Analysis and Design
+295$ An Approach to the Measurement of Use and Cost of a Large Academic Research Library System: A Report of a Study Done at Columbia University Libraries
+296$ Participative Management in Relation to Library Effectiveness
+297$ The Evaluation of Campus Library Document Delivery Service
+298$ The Changing Role of Directors of University Libraries
+299$ An Approach to Developing Computer Catalogs
+300$ Faculty Awareness and Attitudes Toward Academic Library Reference Services: A Measure of Communication
+301$ Staff Participation in Management In Large University Libraries
+302$ Applying "Management by Objectives" To the University Library
+303$ Reference-Bibliographers in the College Library
+304$ The Management Review and Analysis Program: An Assisted Self-Study to Secure  Constructive Change in the Management of Research Libraries
+305$ Allocating the Book Budget: A Model
+306$ From Economic to Political Analysis of Library Decision Making
+307$ Providing Access to Externally Available Bibliographic Data Bases   in an Academic Library
+308$ The Coming Crisis of Western Sociology
+309$ The SMART Automatic Document Retrieval System - An Illustration
+310$ A Relational Model of Data for Large Shared Banks
+311$ Communication among Scientists and Engineers
+312$ Communication of Innovations:  A Cross-Cultural Approach
+313$ Communication among Scientists and Engineers
+314$ Citation Measures of Hard Science, Soft Science, Technology and Nonscience
+315$ Automatic Abstracting and Indexing - Survey and Recommendations .A Edmundson, H.P.
+316$ Scatter Storage Techniques
+317$ Natural Language Question - Answering System: 1969
+318$ A Formal System for Information Retrieval from Files
+319$ Inefficiency of the Use of Boolean Functions for Information Retrieval Systems
+320$ The Teachable Language Comprehender: A Simulation Program and Theory of Language
+321$ An Information-Theoretic Approach to Text Searching in Direct Access Systems
+322$ The Community College Library
+323$ Comparative and International Librarianship; essays on themes and problems
+324$ Computational Analysis of Present-Day American English
+325$ Computer-Based Library and Information Systems
+326$ Computer Filing of Index Bibliographic and Catalog Entries .A Hines, T.C. .W   The need to establish a filing code for computer arrangement has become increasingly apparent as more and more book catalogs and indexes have been prepared mechanically.  Many of the difficulties in manual filing, as shown in the A.L
+327$ Computer Handling of Chemical Structure Information
+328$ Current approaches to classification and clump-finding at the Cambridge Language Research Unit
+329$ The identification of variable-length, equifrequent character strings in a natural language data base
+330$ Computer Readable Bibliographic Data Bases -- A Directory and Data Sourcebook
+331$ Computerized Library Catalogs: Their Growth, Cost and Utility
+332$ On-line Text Editing: A Survey
+333$ The Concept of Main Entry as Represented in the Anglo-American Cataloging Rules
+334$ Concepts and Subject Headings
+335$ Conceptual Basis of the Classification of Knowledge .A Wojciechowski, J
+336$ Conceptual Design of an Automated National Library System
+337$ Conservation Library
+338$ Contemporary Problems In Technical Library and Information Center Management:  A State of the Art
+339$ Continuing Library and Information Science Education
+340$ Cooperation Between Types of Libraries
+341$ Copying Methods Manual
+342$ Corporate Headings:  Their use in library cataloguing and national bibliographics:  A comparative and critical study
+343$ A Criticism and the Growth of Knowledge
+344$ Current Problems in Reference Service
+345$ Data Bases; Computers, and the Social Sciences
+346$ Data Study
+347$ CAS computer-Based Information Services
+348$ A Regional Network - Ohio college Library Center
+349$ Decision Analysis:  Introductory Lectures on Choices Under Uncertainty
+350$ The Design of Inquiring Systems
+351$ Deterioration and Preservation of Library Materials
+352$ Developing Multi-Media Libraries
+353$ The Development of Reference Services through Academic Traditions, Public Library Practice and Special Librarianship
+354$ Dewey Decimal Classification
+355$ Diffusion of Abstract and Indexing Services for Government - Sponsored Research
+356$ Diffusion of Innovations
+357$ Directory of Data Base in the Social and Behavioral Sciences
+358$ The Disadvantaged and Library Effectiveness
+359$ Documentation
+360$ Documentation
+361$ Documentation
+362$ Document:  Information Analysis
+363$ Dynamic Information and Library Processing
+364$ Economic Analysis of the Public Libraries
+365$ Economics of the Academic Libraries
+366$ Economics of Approval Plans
+367$ Economics of Book Storage
+368$ Economies and Computers
+369$ Economics of Defense in the Nuclear Age
+370$ Educating the Library User
+371$ Education and Training for Scientific and Technological Library and Information Work
+372$ Efficiency of the Scientific Information
+373$ Some User Requirements Stated Quantitatively  in Terms of the 90 Percent Library
+374$ Electronic Data Processing in the University Library
+375$ Encyclopedia of Information Systems and Services
+376$ Encyclopedia of Information Systems and Services
+377$ Citation Indexes
+378$ Dialog Interactive Information Retrieval System
+379$ Sources of Information on Specific Subjects
+380$ Error-correcting Codes
+381$ The Evaluation of Information Services and Products
+382$ Evaluation of MEDLARS Documentation
+383$ Evaluation of Micropublishing
+384$ Evaluation of the World Food Literature
+385$ Evaluative Research Principles and Practice in Public Service and Social Action Programs .A Suchman, E
+386$ Informal Communication in Science: Its Advantages and its Formal Analogues
+387$ The Foundations of Education for Librarianship
+388$ A Guide to the Construction and Use of Special Schemes
+389$ Factors Determining the Performance of Indexing Systems
+390$ Factors Determining the Performance of Indexing Systems
+391$ Factors in the Transfer of Technology
+392$ Faculty Status for Librarians
+393$ Farewell to Alexandria  Solution to space, growth, and performance problems of libraries
+394$ A Feasibility Study of Centralized and Regionalized Inter-Library Loan Centers
+395$ Biomedical Literature: Volume, Growth, and Other Characteristics .A Orr, R.H. Leeds, A
+396$ Formal Languages
+397$ Formal Languages and Their Relation to Automata
+398$ Informal Channels of Communication In the Behavioral Sciences: Their Relevance In the Structuring of Formal or Bibliographic Communication
+399$ Functional Approach
+400$ Future Developments in Telecommunications
+401$ Future Shock
+402$ The government of the American Public Library
+403$ Government Publications:  A Guide to Bibliographic Tools
+404$ A Guide to the Library of Congress Classification
+405$ Guide to Reference Books
+406$ Guidelines for Library Automation; a Handbook for Federal and Other Libraries
+407$ Handbook of Comparative Librarianship
+408$ Handbook of Data Processing for Libraries
+409$ HDB of Data Processing for Libraries
+410$ Handbook of Medical Library Practice
+411$ Handbook of the National and International Libraries
+412$ The Hidden Dimension
+413$ Historical Introduction to Library School
+414$ The History of Libraries in the Western World
+415$ 90 Recommended Journals for the Hospital's Health Science Library
+416$ Human Behavior and the Principles of Least Effort  An Introduction to Human Ecology
+417$ Human Problem Solving .A Newell, A. Simon, H
+418$ The Human Side of Enterprise
+419$ A Statistical Approach to Mechanized Encoding and Searching of Literary  Information
+420$ The Automatic Creation of Literature Abstracts
+421$ A Business Intelligence System
+422$ On Some Clustering Techniques
+423$ R and D Project Selection:  Where We Stand
+424$ A Method for Allocating R & D Expenditures
+425$ The Selection of R&D Program Content-Survey of Quantitative Methods
+426$ The Effects of Perceived Need and Means on the Generation of Ideas for Industrial Research and Development Projects
+427$ The Validity of Subjective Probability of Success Forecasts by R & D Project Managers
+428$ Analysis of Some Portfolio Selection Models for R&D
+429$ The Information Content of Titles in Engineering Literature
+430$ On Fuzzy Mapping and Control
+431$ Cooperation Between Types of Libraries An annotated bibliography 1969-1971 supplement
+432$ Illustrative Computer Programming for Libraries
+433$ Improving Access to Library Resources
+434$ Indexing Languages and Thesauri: Construction and Maintenance
+435$ Industrial Dynamics
+436$ Industrial Research and Technological Innovation an Econometric Analysis
+437$ Industry and Technical Progress
+438$ Inequality; a reassessment of the effect of family and schooling in America
+439$ Research Studies in Patterns of Scientific Communication: I. General Description of Research Program
+440$ Research Studies in Scientific Communication: IV. The Continuity of Dissemination of Information by "Productive Scientists"
+441$ Inference and Disputed Authorship
+442$ Storage Analysis of a Compression Coding for Document Data Bases
+443$ Quantitative Fuzzy Semantics .A Zaden, L
+444$ On Relevance as a Measure
+445$ A Definition of Relevance for Information Retrieval
+446$ Computer Assisted Indexing
+447$ A Note on the Concept of "Relevance"
+448$ An Evaluation of Query Expansion by the Addition of Clustered Terms     for a Document Retrieval System
+449$ Situational Relevance
+450$ Selection of Equifrequent Word Fragments for Information Retrieval
+451$ Interaction Between Requesters and a Large Mechanized retrieval System
+452$ The U.S. National Library of Medicine and International MEDLARS Cooperation
+453$ Information in 1985; a forecasting study of information needs and resources
+454$ Information Analysis and Retrieval
+455$ Fuzzy Sets
+456$ Information and Its User
+457$ Information, Mechanism, and Meaning
+458$ Information Retrieval Systems
+459$ Information Retrieval On-Line
+460$ Information Retrieval and Documentation in Chemistry
+461$ Information Retrieval and Processing
+462$ Information Retrieval
+463$ Information Retrieval; British and American, 1876-1976
+464$ Similarity Relations and Fuzzy Orderings
+465$ Using Commercially Available Literature Tapes   for a Current Awareness Service
+466$ The University of Sheffield Biomedical Information Project
+467$ Exploitation of Literature on Tape
+468$ Analysis of On-line Searching Costs
+469$ The Phenomena of Interest to Information Science .A Wersig, Gernot
+470$ Information Service in Libraries
+471$ Information Storage and Retrieval: tools, elements, theories
+472$ Information Storage and Retrieval Systems for Individual Researchers
+473$ Bibliographic Coupling  Extended in Time: Ten Case Histories
+474$ A Methodology for Test and Evaluation of Information Retrieval Systems .A Goffman, W. Newill, V
+475$ Factors Affecting the Preferences of Industrial Personnel for Information   Gathering Methods
+476$ On the Articulation of Surrogates:  An Attempt at an Epistemological Foundation
+477$ Some Remarks on Information Languages, Their Analysis and Comparison
+478$ Concept Organization for Information Retrieval
+479$ Automatic Term Classifications and Retrieval
+480$ Some Structural Characteristics of Articulated Subject Indexes
+481$ Integrated Information Processing and the Case for a National Network
+482$ Some Experiments in the Selective Dissemination of Information   in the Field of Plasma Physics
+483$ Performance of Automatic Information Systems
+484$ Negotiation of Inquiries in an On-Line Retrieval System
+485$ A Clustering Experiment:   First Step Towards a Computer-Generated Classification Scheme
+486$ Relevance Assessments and Retrieval System Evaluation
+487$ An Indirect Method of Information Retrieval
+488$ The Use of Automatically-Obtained Keyword Classifications     for Information Retrieval
+489$ Experiments in Book Indexing by Computer
+490$ Computer Use in Information and Data Handling:    an Appraisal of Its Economic Aspects
+491$ The Unilever Research SDI System
+492$ Performance and Cost of "Free-Text" Search systems
+493$ Experimental Use of a Program for Computer-Aided Subject-Index Production
+494$ The Design of Cost-Effective Hierarchical Information Systems
+495$ Optimum Procedures for Economic Information Retrieval
+496$ The Cost and Costing of Information Storage and Retrieval
+497$ Some Cost Estimates for Bibliographical Searching in a Large-Scale Social Sciences Information System
+498$ Mechanized Searching of Acts of Parliament
+499$ Experiments in Automatic Extracting and Indexing
+500$ Cost-Effectiveness as a Guide in Developing Indexing Rules
+501$ Compilation of Thesauri for Use in Computer Systems
+502$ Information-Seeking Behavior of Catalog Users
+503$ Automatic Classification and Retrieval of Documents by Means    of a Bibliographic Pattern Discovery Algorithm
+504$ Columbia University School of Library Service System    for Thesaurus Development and Maintenance
+505$ Five Years, Five Volumes and 2345 Pages    of the Annual Review of Information Science and Technology
+506$ A Technique for the Evaluation of a Commercial Information Service and Some Preliminary Results from the Drugdoc Service of the  Excerpta Medica Foundation
+507$ A Multidisciplinary and Computerized SDI Service for Industry and  Research-Practical Experience and Costs
+508$ Interactive Reference Retrieval in Large Files
+509$ The Use of Hierarchic Clustering in Information Retrieval
+510$ Retrieval Efficiency from Titles and the Cost of Indexing
+511$ Program Design for Retrospective Searches on Large Data Bases
+512$ Experiences of IIT Research Institute in Operating a Computerized Retrieval System for Searching a Variety of Data Bases
+513$ Communication and Information Processing within Scientific Disciplines: Empirical Findings for Psychology
+514$ Evaluating the Effectiveness of an On-Line,  Natural Language Retrieval System
+515$ A Journal Selection Model and Its Implications for a Library System
+516$ Problems in Information Retrieval:   Logical Jumps in the Expression of Information
+517$ Machine_Aided Indexing of Technical Literature
+518$ A Bayesian Approach to Interactive Retrieval
+519$ Distance between Sets as an Objective Measure of Retrieval Effectiveness
+520$ CA Condensates as a Retrospective Search Tool	A Commentary
+521$ Compression of Bibliographic Files Using an Adaptation of Run-Length Coding
+522$ Automatic Indexing and Generation of Classification Systems by Algorithm
+523$ The Cost_Performance of an On-Line, Free-Text Bibliographic Retrieval System
+524$ Analysis of the Microstructure of Titles in the INSPEC Data-Base
+525$ On the Role of Subjectivity in Establishing, Using, Operating and Evaluating Information Retrieval Systems Treatise II on Retrieval System Theory
+526$ On-Line Information retrieval as a Scientists Tool
+527$ A Technique for Machine-Aided Indexing
+528$ Customized User Services via Interactions with LEADERMART
+529$ A Remote-Terminal Retrospective Search Facility Using a Hybrid of Microform and Computer Storage
+530$ Indexing Language Structure for Automated Retrieval
+531$ Index Term Weighting
+532$ Relevance, Pertinence and Information System Development .A Kemp, D
+533$ The Dynamic Scientific-Information User
+534$ Project Intrex: A General Review
+535$ Information Systems, Services, and Centers
+536$ Information Theory and Reliable Communication
+537$ The Information Sciences
+538$ Information Retrieval Systems
+539$ Information Retrieval Languages .A Moskovich, V
+540$ Information:  Methodology
+541$ ISBD(S) and Title Main Entry for Serials
+542$ (Towards a Theory of the Concept)
+543$ Impact of Scientific Serials on the Advancement of Medical Knowledge:  An Objective Method of Analysis
+544$ The Nature of Scientific Communication and Influence
+545$ The Literature of the Social Sciences: a Survey of Citation Studies
+546$ Interactive Bibliographic Search: The User/Computer Interface
+547$ AIM-TWX - an Experimental On-Line Bibliographic Retrieval System
+548$ The Computer/Library Interface: the Last Five Years
+549$ The Intergroup Conflict
+550$ Interlibrary Loan Involving Academic Libraries
+551$ Interlibrary Loan Policies Directory
+552$ Interlibrary Requests
+553$ An Introduction to Computers in Information Science
+554$ Introduction to Information Science
+555$ Introduction to Library Science: Basic Elements of Library Service
+556$ Introduction to Subject Indexing; a Programmed Text
+557$ Introduction to Systems Philosophy
+558$ Introduction to Theoretical Linguistics
+559$ Introduction to University Library Administration
+560$ Indivisible Colleges; Diffusion of Knowledge in Scientific Communities
+561$ A Dynamic Programming Approach to R and D Budgeting and Project Selection
+562$ The Association Factor in Information Retrieval
+563$ A Study of Methods for Systematically Abbreviating English Words and Names .A Bourne, Charles P.
+564$ Automatic Document Classification .A Borko, Harold
+565$ Computer Evaluation of Indexing and Text Processing .A Salton, G.
+566$ Semantic Clustering of Index Terms .A Gotlieb, C. C.
+567$ The Influence of Data Characteristics and Usage on Direct Access File  Organization
+568$ The Application of Pattern Recognition to Screening Prospective Anticancer Drugs
+569$ Stereochemically Unique Naming Algorithm
+570$ Deriving Term Relations for a Corpus by Graph Theoretical Clusters
+571$ Automatic Abstracting and Indexing.. II. Production of Indicative Abstracts by Application of Contextual  Inference and Syntactic Coherence Criteria
+572$ Linguistics and Information Science .A Montgomery, C
+573$ Ascertaining Activities in a Subject Area Through Bibliometric Analysis
+574$ Information Concepts and Their Utility
+575$ A Decision Theory View of the Information Retrieval Situation: An Operations Research Approach
+576$ Classification of Scientific Documents by Means of Self_Generated Groups  Employing Free Language .A Feinman, R. D.
+577$ Probabilistic Models for Automatic Indexing
+578$ Terse Literatures:  I. Terse Conclusions
+579$ Functions of a Man-Machine Interactive Information Retrieval System
+580$ Overlap in the Lists of Journals Monitored by Biosis, CAS, and Ei
+581$ Structure and Effectiveness of The Citation Identifier, an Operational Computer Program for Automatic Identification of Case Citations in Legal Literature
+582$ Title Indexes as Alerting Services in the Chemical and Life Sciences
+583$ Evaluation of a KWIC Index for Library Literature
+584$ The Practice of Charging Users for Information Services: A State of the Art Report
+585$ Towards a Metascience of Information:  Informatology .A Otten, Klaus
+586$ An Evaluation of Index Medicus and MEDLARS in the Field of Ophthalmology
+587$ Obsolescence of Special Library Periodicals: Sampling Errors and Utility Contours
+588$ Cardiovascular Serial Literature: Characteristics, Productive Journals, and Abstracting/Indexing Coverage .A Frick, Barbara F.
+589$ Are Titles of Chemical Papers Becoming More Informative?
+590$ Toward a Theory of Indexing--II .A Landry, Bertrand C.
+591$ The Cost-Effectiveness Analysis of Information Retrieval and Dissemination Systems
+592$ Some Remarks on Elitism in Information and the Invisible College Phenomenon in Science
+593$ Human Factors in the Design of an Interactive Library System
+594$ On-Line Systems: Promise and Pitfalls
+595$ Selected Results From An Inquiry Into Testing of Information Retrieval Systems
+596$ What Makes An Automatic Keyword Classification Effective? .A Jones, K. Sparck
+597$ Machine-Assisted Approach to General Reference Materials
+598$ Curricula in Information Science:  Analysis and Development
+599$ On the Evaluation of Information Science
+600$ Compound Words: A Problem in Post-Coordinate Retrieval Systems
+601$ Some Implications of Automatic Recognition of Bibliographic Elements
+602$ Informal Communication Among Scientists in Sleep Research
+603$ The Efficiency of MEDLARS Titles for Retrieval
+604$ Comparison of Document Data Bases .A Schipma, Peter B. .A Williams, Martha E.
+605$ Citations, References and the Growth of Scientific Literature: A Model of Dynamic Interaction .A Krauze, Tadeusz K.
+606$ Interface Design for An Interactive Information Retrieval System: A Literature Survey and a Research System Description
+607$ Improving a Field-based "Eric-Like" Information System
+608$ A new comparison Between Conventional Indexing (MEDLARS)  and Automatic Text Processing (SMART)
+609$ Report on the Evaluation of an Experimental Computer-Based  Current-Awareness Service for Chemists .A Barker, Frances H. .A Wyatt, Barry K.
+610$ The Development of a Semantic Differential to Assess Users' Attitudes Towards An On-line Interactive Reference Retrieval System
+611$ What Information Dissemination Studies Imply Concerning the Design of On-Line Reference Retrieval Systems*
+612$ Interactive Search of Bibliographic Data Bases in an Academic Environment .A Borman, Lorraine
+613$ Citation Patterns fo the Cardiovascular Serial Literature .A McMurtray, Frances
+614$ The Use Patterns of Physics Journals in a Large Academic Research Library
+615$ A Cost Model for Evaluating Information Retrieval Systems
+616$ A Bibliometric Analysis of Certain Information Science Literature
+617$ On-Line  Serials Control System in a Large Biomedical Library; 1) Description of the System
+618$ Interrelationships of Scientific Journals
+619$ Managing An Uncontrolled Vocabulary Ex Post Facto
+620$ On-Line Serials Control System on a Large Biomedical Library Part II. Evaluation of Retrieval Features
+621$ Dialectical Inquiring Systems: A New Methodology for Information Science
+622$ Overlap Among the Journal Articles Selected for Coverage by BIOSIS, CAS, and Ei
+623$ Cost Effectiveness of Current Awareness Sources in the Pharmaceutical  Industry
+624$ Clinician Search for Information
+625$ On Selecting a Measure of Retrieval Effectiveness
+626$ The User Interface for Interactive Bibliographic Searching: An Analysis of the Attitudes of Nineteen Information Scientists
+627$ Theoretical Foundations of Thesaurus-Construction and Some Methodological Considerations for Thesaurus-Updating
+628$ The Environment of Classification: The Concept of Mutual Exclusivity
+629$ Promotion of Information Services: An Evaluation of Alternative Approaches .A Stern, Louis W. .A Craig, C. Samuel .A La Greca, Anthony J.
+630$ A Novel Philosophy for the Design of Information Storage and Retrieval Systems Appropriate for the '70's
+631$ A General Statistical Model for Estimating Future Demand Levels of Data-Base Utilization Within an Information Retrieval Organization
+632$ Co-citation in the Scientific Literature: A New Measure of the Relationship Between Two Documents
+633$ Use of an Automatic Text Analyzer in Preparation of SDI Profiles
+634$ On Selecting A Measure of Retrieval Effectiveness Part II. Implementation of the Philosophy
+635$ Clustering of Scientific Journals
+636$ Text Searching Retrieval of Answer-Sentences and Other Answer-Passages
+637$ Breaking the Communication barrier Between Searcher and Literature  File: An Interactive Guide
+638$ Densities of Use, and Absence of Obsolescence, in Physics Journals at M I T
+639$ Costs and Effectiveness in the Evolution of an Information System: A Case Study
+640$ The Scientific Premises of Information Science
+641$ Representation of Concept Relations Using the TOSAR System of the IDC: Treatise III on Information Retrieval Theory
+642$ Making On-Line Search Available in an Industrial Research Environment
+643$ A Theory of Term Importance in Automatic Text Analysis
+644$ A Decision Theoretic Foundation for Indexing
+645$ Creation and Use of Citation Data Bases: A Modest Proposal
+646$ Performing Evaluation Studies in Information Science
+647$ Optimal Resource Allocation in Library Systems
+648$ User Training for On-Line Information Retrieval Systems
+649$ A Probabilistic Approach to Automatic Keyword Indexing Part I. On the Distribution of Specialty Words in a Technical Literature
+650$ Relative Effectiveness of Titles, Abstracts, and Subject Headings  for Machine Retrieval from the COMPENDEX Services
+651$ An Acquisitions Decision Model for Academic Libraries
+652$ RELEVANCE: A Review of and a Framework for the Thinking on the Notion  in Information Science
+653$ Thesaurus Control - the Selection, Grouping, and Cross-Referencing of Terms for Inclusion in a Coordinate Index Word List
+654$ An Analytical Model of a Library Network
+655$ The Potential Usefulness of Catalog Access Points Other Than Author, Title, and  Subject
+656$ Measures of the Usefulness of Written Technical Information to Chemical Researchers
+657$ Standards For Writing Abstracts
+658$ Criteria Used by Research and Development Engineers in the Selection  of an Information Source .A Gerstberger, Peter G.
+659$ A Highly Associative Document Retrieval System
+660$ On Relevance, Probabilistic Indexing and Information Retrieval .A Maron, M. E.
+661$ Is Automatic Classification a Reasonable Application of Statistical Analysis of Text?
+662$ Automatic Indexing: An Experimental Inquiry
+663$ Automatic Document Classification   Part II. Additional Experiments .A Borko, Harold
+664$ Semantic Road Maps for Literature Searchers
+665$ Morphology of "Information Flow" .A Fairthorne, R
+666$ New Methods in Automatic Extracting
+667$ A Mathematical Method for Analyzing the Growth of a Scientific Discipline
+668$ The Automatic Encoding of Chemical Structures
+669$ Rapid Structure Searches via Permuted Chemical Line-Notations .A Sorter, P.F. Granito, C.E. Gilmer, J.C. Gelberg, A. Metcalf, E
+670$ A Chemical Structure Storage and Search System Developed at Du Pont
+671$ The Generation of a Unique Machine Description for Chemical Structures - A Technique Developed at Chemical Abstracts Service
+672$ Esso Research Experiences with Chemical Abstracts on Microfilm
+673$ Rapid Structure Searches via Permuted Chemical Line Notations.  III. A Computer-Produced Index .A Granito, C.E. Schultz, J.E. Gibson, G.W. Gelberg, A. Williams, R.J. Metcalf, E
+674$ Installation and Operation of a Registry for Chemical Compounds
+675$ Atom-by-Atom Typewriter Input for Computerized Storage and Retrieval of Chemical Structures
+676$ ISI's Experiences with ASCA - A Selective Dissemination System
+677$ Procedures for Converting Systematic Names of Organic Compounds into Atom-Bond Connection Tables
+678$ A Chemical Notation and Code for Computer Manipulation
+679$ Conversion of Wiswesser Notation to a Connectivity Matrix for Organic Compounds
+680$ SWIFT:  Computerized Storage and Retrieval of Technical Information
+681$ A Chemically Oriented Information Storage and Retrieval System. II. Computer Generation of the Wiswesser Notation  of Complex Polycyclic Structures .A Bowman, Carlos M. .A Landee, Franc A. .A Lee, Nancy W.
+682$ Substructure Search in the MCC System
+683$ The IDC System for Chemical Documentation
+684$ Operation of Du Pont's Central Patent Index .A Rasmussen, Leslie E.
+685$ The Primary Journal: Past, Present, and Future
+686$ New Developments in Primary Journal Publication
+687$ Index Chemicus Registry System:  Pragmatic Approach to Substructure Chemical Retrieval .A Garfield, E. Revesz, G.S. Granito, C.E. Dorr, H
+688$ The Multiterm Index:  A New Concept in Information Storage and Retrieval
+689$ The GREMAS System, an Integral Part of the IDC System for Chemical  Documentation .A Rossler, Sigrid
+690$ Experience with the Mechanized Chemical and Biological  Information Retrieval System .A Jacobus, D.P. Davidson, D.E. Feldman, A.P. Schafer, J
+691$ Systems Requirements for Primary Information Systems
+692$ Design and Operation of a Computer Search Center for Chemical Information
+693$ A Correlative Notation System for NMR Data
+694$ Computer Generation of Wiswesser Line Notation .A Farrell, C.D. Chauvenet, A.R. Koniver, D
+695$ Interactive Searching of Chemical Files and Structural Diagram Generation  from Wiswesser Line Notation .A Feldman, R. J.
+696$ Computerized Drug Information services .A Smith, Daniel R. .A Beauchamp, R. O. Jr. .A Garber, Josephine L.
+697$ Computer Generation of Wiswesser Line Notation. II. Polyfused, Perifused, and Chained Ring Structure .A Heller, Stephen R.
+698$ Encoding and Decoding WLN
+699$ Search of CA Registry (1.25 Million Compounds) with the Topological Screens System .A Milne, Margaret .A Lefkovitz, David .A Hill, Helen
+700$ Strategic Considerations in the Design of a Screening System for Substructure Searches of Chemical Structure Files
+701$ Chemical Abstracts Index Names for Chemical Substances in the Ninth Collective Period (1972-1976)
+702$ The CA Integrated Subject File.  II. Evaluation of Alternative Data Base  Organizations
+703$ A Chemical Search System for a Small Computer
+704$ Use of the IUPAC Notation in Computer Processing of Information on Chemical Structures
+705$ Comparative Searching of Computer Data Bases .A Beauchamp, R.O. Daugherty, M
+706$ A Graph-Theoretic Algorithm for Matching Chemical Structures
+707$ French National Policy for Chemical Information and the DARC System  as a Potential Tool of This Policy
+708$ An Efficient Design for Chemical Structure Searching. I. The Screens .A Feldman, Alfred
+709$ The Chemical Abstracts Service Chemical Registry System.  I. General Design
+710$ An International Mass Spectral Search System (MSSS). V. A status Report .A Heller, Rachelle S. .A Milne, G. W. A. .A Feldmann, Richard J.
+711$ Development and Production of Chemical Titles, a Current Awareness Index Publication Prepared with the Aid of a Computer
+712$ Technical-Abstracting Fundamentals. II. Writing Principles and Practices
+713$ Patent Citation Indexing and the Notions of Novelty, Similarity,  and Relevance
+714$ Weighted Term Search: A Computer Program for an Inverted Coordinate Index on Magnetic Tape .A Matthews, F. W.
+715$ Articulation in the Generation of Subject Indexes by computer
+716$ Reading Behavior of Chemists
+717$ Current Information Dissemination: Ideas and Practices
+718$ Critical Reviews: Introductory Remarks
+719$ Critical Reviews: The User's Point of View
+720$ A Selective Current-Awareness System Using Engineering Index's Plastics Data Base.  II. Performance
+721$ User Experiences with Primary Journals on 16-Mm Microfilm
+722$ Information Transfer Limitations of Titles of Chemical Documents
+723$ The Development, Cost, and Impact of a Current Awareness Service in an Industrial Town
+724$ Document Access
+725$ An Inquiry on New Forms of Primary Publications .A Moore, J
+726$ Evaluation of the Database CA Condensates Compared with Chemical Titles
+727$ Evaluation of Search Time for Two Computerized Information Retrieval  Systems at the University of Georgia .A Ware, Glenn O.
+728$ User Assessment of Computer-Based Bibliographic Retrieval Services
+729$ An Indexing Coverage Study of Toxicological Literature
+730$ The Status of Chemical Information
+731$ Evaluation of an SDI Service Based on the Index Chemicus Registry System
+732$ Computer Search Center Statistics on Users and Data Bases
+733$ Profiling, the Key to Successful Information retrieval
+734$ On-Line Searching of Computer Data Bases
+735$ Journals Most Cited by Chemists and Chemical Engineers .A Barrett, R.L. Barrett, M
+736$ Overview of the NAS/NRC Conference on Large Data Bases
+737$ The Large Data Base File Structure Dilemma
+738$ Substructure Searching of Computer-Readable Chemical Abstracts Service Ninth Collective Index Nomenclature Files .A Fisanick, W. Mitchell, L.D. Scott, J
+739$ A Rapid Generalized Minicomputer Text Search System Incorporating Algebraic Entry of Boolean Strategies .A Isenhour, T. L. .A Woodward, W. S.
+740$ Searching CA Condensates On-Line vs. the CA Keyword Indexes
+741$ Searching Chemical Abstracts vs. CA Condensates
+742$ Searching the Chemical Abstracts Condensates Data Base  via Two On-Line Systems
+743$ A Survey of the Use of On-Line Computer-Based Scientific Search Services by Academic Libraries
+744$ Semiconductor Journals
+745$ A Fuzzy-Set-Theoretic Interpretation of Linguistic Hedges
+746$ Subject Indexes and Automatic Document Retrieval .A Lynch, Michael F. .W    Index entries from the subject indexes to CA can, in general, be converted to 'normal' or title-like phrases by applying simple tests to the positions of prepositions and conjunctions in the entries.. Other, more complex, entries can be transformed after somewhat deeper analysis.. These manipulations are a  necessary preliminary step to the use of the subject-index language in  retrieval.
+747$ The Law of Constant Citation for Scientific Literature
+748$ The Derivation and Application of the Bradford-Zipf Distribution
+749$ Statistical Bibliography or Bibliometrics?
+750$ The Effect of Growth on the Obsolescence of Semiconductor  Physics Literature
+751$ The Ambiguity of Bradford's Law
+752$ On the Inverse Relationship of Recall and Precision
+753$ Source of Citations and References for Analysis Purposes:  A Comparative Assessment
+754$ A Test for the Separation of Relevant and Non-Relevant Documents  in Experimental Retrieval Collections .A Van Rijsbergen, C. J.
+755$ The Journal of Documentation
+756$ Optimization of Library Expenditure on Biochemical Journals
+757$ Citation Analyses as Indicators of the Use of Serials: A Comparison of  Ranked Title Lists Produced by Citation Counting and from Use Data
+758$ A Scientific Theory of Classification and Indexing  and Its Practical Application
+759$ A New Look at Reference Scattering
+760$ The Foreign-Language Problem Facing Scientists and Technologists  in the United Kingdom - Report of a Recent Survey
+761$ Minimum Vocabularies in Information Indexing
+762$ Opening the Black Box of 'Relevance' .A Cuarda, Carlos A.
+763$ Current Awareness Needs of Physicists: Results of an Anglo-American Study .A Keenan, Stella
+764$ Progress in Documentation
+765$ Bradford's Law of Scattering
+766$ A National Loan Policy for Scientific Serials
+767$ Journal Usage Versus Age of Journal
+768$ Student Attitudes to the University Library.  A Survey at Southampton University
+769$ Keywords and Clumps
+770$ Tests on Abstracts Journals
+771$ Survey of Information Needs of Physicists and Chemists
+772$ Information Use Studies  Part 2 - Comparison of Some Recent Surveys
+773$ A Computer_Aided Information Service for Nuclear Science and Technology
+774$ Student Attitudes to the University Library: A Second Survey at Southampton University .A Line, Maurice B.
+775$ The Citation Characteristics of Astronomical Research Literature
+776$ Tests on Abstracts Journals:  Coverage Overlap and Indexing
+777$ Estimates of the Number of Currently Available Scientific and Technical Periodicals
+778$ The Bradford Distribution
+779$ Evaluating the Economic Efficiency of a Document Retrieval System .A Lancaster, F. W.
+780$ The Measures of Information Retrieval Effectiveness proposed by Swets
+781$ A Study of Cross-Referencing .A Kochen, Manfred
+782$ Statistics of Scientific and Technical Articles
+783$ Author Versus Title: A Comparative Survey of the Accuracy of the Information Which the User Brings to the Library Catalogue .A Ayres, F. H. .A German, Janice .A Loukes, N.
+784$ Documentation Notes
+785$ The Parametric Description of Retrieval Tests Part I: The Basic Parameters
+786$ Documentation Notes
+787$ The Complete Bradford - Zipf 'bibliograph'
+788$ The Use of Social Science Periodical Literature .A Wood, D. N.
+789$ Social Science Literature Use in the UK as Indicated by Citations .A Earle, Penelope
+790$ Computer Indexing of Medical Articles - Project Medico
+791$ Progress in Documentation Empirical Hyperbolic Distributions (Bradford-Zipf-Mandelbrot) for Bibliometric Description and Prediction .A Fairthorne, R
+792$ Photocopies v. Periodicals Cost-Effectiveness in the Special Library
+793$ The 'Half-Life' of Periodical Literature:   Apparent and Real Obsolescence
+794$ 'Half-Life'
+795$ Progress in Documentation
+796$ Switching Languages for Indexing
+797$ Progress in Documentation
+798$ The Thesaurofacet: A Multipurpose Retrieval Language Tool
+799$ Access and Recognition: from User's Data to Cataloque Entries .A Tagliacozzo, Renata .A Rosenberg, Lawrence
+800$ The Growth, Utility, and Obsolescence of Scientific Periodical Literature
+801$ UDC User Profiles as Developed for a Computer-Based SDI Service  in the Iron and Steel Industry .A McCash, W. H.
+802$ Feasibility Study of a Scheme for Reconciling Thesauri  Covering a Common Subject
+803$ Progress in Documentation
+804$ Several Law Relations in Science Bibliography - A Self-Consistent  Interpretation
+805$ Automatic Indexing Using Bibliographic Citations
+806$ The Extension on Users' Literature Awareness as a Measure of Retrieval  Performance, and Its Application to MEDLARS
+807$ Free Text Word Retrieval and Scientist Indexing: Performance Profile and Costs .A Hersey, D. F. .A Foster, W. R. .A Stalder, E. W.
+808$ The Use of Older Literature and Its Obsolescence
+809$ A Single Computer-Based System for Both Current Awareness and Retrospective  Search: Operating Experience with ASSASSIN .A Clough, C. R.
+810$ A Probabilistic Search Strategy for MEDLARS
+811$ Measuring Readers' Failure at the Shelf .A Urquhart, John A.
+812$ A Statistical Interpretation of Term Specificity  and Its Application in Retrieval
+813$ Comparative Efficiency of Searching Titles, Abstracts, and Terms  in a Free-Text Data Base .A Barcer, F. H. .A Veal, D. C.
+814$ Towards Automatic Profile Construction
+815$ Standard Times for Information Systems:  A Method for Data Collection and Analysis .A Wilkin, A. P. .A Reynolds, R.
+816$ Measuring Readers' Failure at the Shelf in Three University Libraries .A Urquhart, John A.
+817$ The Aberrystwyth Index Languages Test
+818$ Progress in Documentation: Research in User Behaviour in University Libraries
+819$ Document Analysis and Linguistic Theory
+820$ Studies to Compare Retrieval Using Titles with that Using Index Terms. SDI from 'Nuclear Science Abstracts' .A Olive, G. .A Terry, J. E.
+821$ Recent Growth of the Literature of Biochemistry  and Changes in Ranking of Periodicals
+822$ A Cost Survey of Mechanized Information Systems
+823$ Progress in Documentation: Measuring the Goodness of Library Services: A General Framework for Considering Quantitative Measures
+824$ On the Specification of Term Values in Automatic Indexing .A Salton, G.
+825$ Progress in Documentation: The Development of Precis:   A Theoretical and Technical History
+826$ User Evaluation of Information Retrieval Systems
+827$ The Evaluation of Information Retrieval Systems
+828$ A Study of Current Awareness Publications in the Neurosciences
+829$ Foundation of Evaluation
+830$ Progress in Documentation
+831$ The Effect of a Large-Scale Photocopying Service on Journal Sales .A Line, Maurice B.
+832$ The Status of 'Practicum' in Graduate Library Schools
+833$ A New Linear Notation System Based on Combinations of Carbon and Hydrogen
+834$ Costs of Library Catalog Cards Produced by Computer
+835$ Compression Word Coding Techniques for Information Retrieval
+836$ Entry/Title Compression Code Access to Machine Readable Bibliographic Files .A Newman, William L.
+837$ Information Requirements in the Social Sciences:  Some Preliminary Considerations
+838$ Prospects for a New General Classification
+839$ Information Services in University Libraries
+840$ The Viability of Branch Libraries
+841$ Work Study in Libraries
+842$ Administrative Effectiveness: Times and Costs of Library Operations
+843$ Subject Specialisation in Academic Libraries: some preliminary observations on role conflict and organizational stress
+844$ Graduates in Academic Libraries:  a survey of past students of the Post- Graduate School of Librarianship and Information Studies, Sheffield University, 1964/65 - 1970/71
+845$ A Personalized Service to Academic Researchers: the Experimental Information Service in the Social Sciences at the University of Bath
+846$ Jesse Shera and the Theory of Bibliography
+847$ Library Instruction and the Development of the Individual
+848$ A Book Catalog at Stanford
+849$ The Development and Administration of automated systems  in Academic Libraries
+850$ Bell Laboratories' Library Real-Time Loan System (BELLREL)
+851$ Bibliographic Retrieval from Bibliographic Input; The Hypothesis and Construction of a Test
+852$ MARC II and COBOL
+853$ A Fast Algorithm for Automatic Classification
+854$ Library Network Analysis and Planning (Lib-Nat)
+855$ The MARC Sort Program
+856$ Concept of an On-Line Computerized Library Catalog
+857$ Teaching with MARC Tapes
+858$ The RECON Pilot Project: A Progress Report
+859$ Comparisons of LC Proofslip and MARC Tape Arrival Dates at the University  of Chicago Library
+860$ Standardized Costs for Automated Library Systems
+861$ The RECON Pilot Project: A Progress Report November 1969 - April 1970
+862$ An Algorithm for Variable-Length Proper-Name Compression
+863$ RECON Pilot Project:  A Progress Report, April-September 1970
+864$ Monocle
+865$ Scope: A Cost Analysis of an Automated Serials Record System
+866$ A MARC II - Based Program for Retrieval and Dissemination
+867$ An Algorithm for Compaction of Alphanumeric Data
+868$ Title-Only Entries Retrieved by Use of Truncated Search Keys
+869$ A Truncated Search Key Title Index
+870$ Selective Dissemination of MARC: A User Evaluation
+871$ Analysis of Search Key Retrieval on a Large Bibliographic File
+872$ The Shared Cataloging System of the Ohio College Library Center
+873$ Content Designators for Machine-Readable Records: A Working Paper
+874$ The New York Public Library Automated Book Catalog Subsystem
+875$ File Structure for an On-Line Catalog of One Million Titles
+876$ Catalog Records retrieved by Pesonal Author Using Derived Search Keys
+877$ Comparison of MARC Serials, NSDP, and ISBD-S
+878$ The Ad Hoc Discussion Group on Serials Data Bases: Its History, Current Position, and Future
+879$ Providing Bibliograhic Services From Machine-Radable Data Bases - The Library's Role
+880$ BIBCON - A General Purpose Software System for MARC-Based Book Catalog Production
+881$ Impact of National Developments on Library Technical Services and Public Services
+882$ CONSER: An Update
+883$ MEDLARS II: A Third Generation Bibliographic Production System
+884$ The Washington Library Network's Computerized Bibliographic System
+885$ State of the Nation in Networking
+886$ Automated Alternatives to Card Catalogs: The Current State of Planning and Implementation
+887$ COM Catalog Based on OCLC Records
+888$ Serials Data Control:  Current Problems and Prospects
+889$ A Comprehensive Study Based on Physics Abstracts
+890$ Pattern Recognition and Structure-Activity Relationship Studies..  Computer-Assisted Prediction of Antitumor Activity in Structurally Diverse Drugs in an Experimental Mouse Brain Tumor System
+891$ The Status and Needs of Medical School Libraries in the United States
+892$ The Georgia Tech Library's Microfiche Catalog
+893$ The Frequency Distribution of Scientific Productivity.
+894$ An Experiment in Index Term Frequency
+895$ Design Equations for Retrieval System Based on the Swets Model
+896$ Job Dimensions and Educational Needs in Librarianship
+897$ Shawnee Mission's On-Line Cataloging System
+898$ Classification Systems
+899$ Technical Scientific Information and the Efficient Application of Science
+900$ The Language Barrier; a study in depth of the place of foreign language materials in the research activity of the academic community
+901$ Language and Information Selected Essays on their Theory and Application
+902$ Language and Mind
+903$ Development of the County Law Library
+904$ No Special Rules for Entry of Serials
+905$ Periodicals for the Small Bio-Medical and Clinical Library
+906$ Libraries and Cultural Change
+907$ Libraries of the Future
+908$ Libraries at Large
+909$ Libraries and Librarianship in the West: A Brief History
+910$ Libraries and Neighborhood Information Centers
+911$ Libraries and the Organization of Knowledge
+912$ Libraries in Political Science
+913$ On the construction and care of white elephants
+914$ Library and information science abstracts A new service for librarians and documentalists
+915$ Library research at the University of Lancaster
+916$ Library Automation:  Experience, Methodology, and Technology of the Library  as an Information System
+917$ Library Automation Systems
+918$ Library of Congress .A Goodrum, C
+919$ ISBD(S) and Title Main Entry for Serials
+920$ Main Entry for Serials
+921$ CONSER Cooperative Conversion of Serials Project
+922$ Library Catalogs:  their preservation and maintenance by photographic and automated techniques; a study
+923$ Library Education: an introductional survey
+924$ Library Education and Training
+925$ Library Effectiveness
+926$ The Lending of Books to One Another by Libraries
+927$ Personal Relations Between Librarians and Readers
+928$ The Divided Catalog
+929$ The Trading Stamp Mentality
+930$ Top Priority for Cataloging-In-Source
+931$ Backlog to Frontlog
+932$ The Urban Library Dilemma
+933$ The Library Press
+934$ Library Education and the Public Library
+935$ Crisis in Library Education
+936$ Along the Academic Way
+937$ The Philadelphia Project
+938$ Library Cost Analysis:  A Recipe
+939$ The Paradoxes of Library Cooperation
+940$ ISBD Its Origin, Rationale, and Implications
+941$ ISBD Standard or Secret?
+942$ Pay Libraries & User Charges
+943$ Austerity, Technology, and Resource Sharing: Research Libraries Face the Future
+944$ The View from the Tower of Babel
+945$ A Library Management Game: a report on a research project
+946$ Library Materials
+947$ Library Networks
+948$ Library Planning and Decision Making Systems
+949$ Library Practice in Hospitals
+950$ The Crisis in Cataloging
+951$ The Historical Background of Departmental and Collegiate Libraries
+952$ Characteristics of the Research Literature Used by Chemists and Physicists in the United States
+953$ Characteristics of the Research Literature Used by Chemists and Physicists in The United States, Part II
+954$ The Librarian:  From Occupation to Profession?
+955$ Interrelations among Special Librarys
+956$ The Cranfield II Relevance Assessments: A Critical Evaluation
+957$ An Economic Analysis of Library Benefits
+958$ The Review Article: Its Characteristics and Problems
+959$ Measures of Library Effectiveness
+960$ Library Operations Research: A Process of Discovery and Justification
+961$ An Operations Research Study of a Variable Loan and Duplication Policy  at the University of Lancaster
+962$ Library Objectiveness and Performance Measures and Their Use in Decision  Making .A Hamburg, Morris .A Ramist, Leonard E.
+963$ Catalog use in a Large Research Library
+964$ Efficiency Criteria for the Operation of Large Libraries
+965$ The Information Needs of Current Scientific Research
+966$ The Evidence Underlying the Cranfield Results
+967$ On Improving Communication among Scientists
+968$ The Ecology of Privacy
+969$ Paper Deacidification:  A Preliminary Repot
+970$ Fields of Information on Library of Congress Catalog Cards: Analysis of a Random Sample, 1950-1964
+971$ Paper Impermanence as a Consequence of pH and Storage Conditions
+972$ Graph Model for Library Information Networks .A Korfhage, Robert R. .A Bhat, U. Narayan
+973$ The Divided Catalog: A Summary of the Literature
+974$ Cost Survey: Cost of Ordering, Cataloging, and Preparations in Southern California Libraries
+975$ Why Allocate?
+976$ Cost Accounting for the Library
+977$ A Study of the Usage and Retention of Technical Periodicals
+978$ Remarks on LC Plans for Implementation of New Centralized Acquisitions and Cataloging Program under Title IIC, Higher Education Act
+979$ Automated Acquisitions Procedures at the University of Michigan Library
+980$ Facsimile Transmission in Libraries:  A State of the Art Survey
+981$ Statistics of Collection Overlap at the Libraries of the Six New England State Universities
+982$ Logical Flow Charts and Other New Techniques for the Administration of Libraries and Information Centers
+983$ Criteria for Weeding of Collections
+984$ Cost Analysis Studies in Libraries: Is There a Basis for Comparison?
+985$ The Bibliographer in the Academic Library
+986$ MEDLARS:  A Summary Review and Evaluation of Three Reports
+987$ CIP in Mid-1970
+988$ Report on Library of Congress Plans for Cataloging in Publication
+989$ An Analysis of the Universal Decimal Classification as a Term System for  Nuclear Science and Technology
+990$ Automation Activities in the Processing Department of the Library of Congress .A Avram, Henriette D. .A Maruyama, Lenore S.
+991$ Filing Arrangement in the Library of Congress Catalogs
+992$ Cataloging Nonbook Materials: Mountain or Molehill?
+993$ An Integrated, User-Oriented System for the Documentation and Control of Machine-Readable Data Files .A Byrum, John D. Jr.
+994$ Measuring Reader Failure at the Catalogue .A Seymour, Carol A.
+995$ "Early Warning" Generic Medium Designations in Multimedia Catalogues
+996$ International Developments in Cataloging
+997$ The Ohio College Library Center
+998$ The Other Half of Cataloging .A Ohmes, Frances
+999$ The Impact of International Standardization on the Rules of Entry for Serials
+1000$ Serial Cataloging Problems: Rules of Entry and Definition of Title
+1001$ The Current State of Standardization in the Cataloging of Serials
+1002$ AACR 6: Time for a Review
+1003$ AACR, ISBD(S) and ISSN: A Comment
+1004$ International Standards for the Interchange of Bibliographic Records in Machine-Readable Form
+1005$ Library Response to Urban Change; a study of the Chicago Public Library .A Martin, L
+1006$ Library Service to the Disadvantaged
+1007$ Library Systems Analysis Guidelines
+1008$ The Measurement and Evaluation of Reference Service
+1009$ Service to Industry and Research Parks by College and University Libraries
+1010$ The Science Citation Index: A New Concept in Indexing
+1011$ Information Network Prospects in the United States
+1012$ Standardization Requirements of a National Program for Information Transfer
+1013$ Bibliographic and Technical Problems in Implementing a National Library Network
+1014$ The Microform Revolution
+1015$ Participative Management as Related to Personnel Development
+1016$ Numerical Methods of Bibliographic Analysis
+1017$ Evaluation of Adult Reference Service
+1018$ The Library's Public; a report of the public library inquiry
+1019$ Determining the Optimal Number of Volumes for a Library's Core Collection
+1020$ IFLA - Communications - FIAB
+1021$ The Subject Specialist in National and University Libraries, with Special Reference to Book Selection
+1022$ Information Science in Librarianship
+1023$ Weeding the Collection:  A Review of Research on Identifying Obsolete Stock .A Seymour, C
+1024$ PRECIS in a Multilingual Context
+1025$ Limits Growth
+1026$ Line - Formula Chemical Notation
+1027$ Linguistics and Information Science
+1028$ A List of Books for College Libraries
+1029$ A Little Commonwealth Family Life in Plymouth Colony
+1030$ Little Science, Big Science
+1031$ The Logic of Comparative Social Inquiry
+1032$ Londoner and His Library
+1033$ The Making of a Library
+1034$ Man's Aggression .A Montagu, M.F
+1035$ Man-Machine Communication
+1036$ The Management of Innovation
+1037$ Towards a Behavioral Theory of Communication
+1038$ Management Misinformation Systems
+1039$ Computational Analysis of Scoring Models for R and D Project Selection
+1040$ A Scoring Methodology for Assessing the Suitability of Management Science Models
+1041$ The Managerial Grid
+1042$ The Marc II Format:                                               A Communications Format for Bibliographic Data
+1043$ The MARC Pilot Project: The Final Report
+1044$ Mathematical Taxonomy
+1045$ The Mathematical Theory of Communication
+1046$ Meaning and the Structure of Language
+1047$ Measurement of Meaning
+1048$ Measurement of Satisfaction in Work and Retirement
+1049$ Measuring the Quality of Library Service:  A Handbook
+1050$ Medical Innovation: a diffusion study
+1051$ MEDLARS 1963-1967
+1052$ Melcher on Acquisition
+1053$ Methods of Information Handling
+1054$ Relevance Predictability in Information Retrieval Systems
+1055$ The Use of Biomedical Periodical Literature at the National Lending Library for Science and Technology .A Wood, D.N. Bower, C
+1056$ Metropolitan Public Library
+1057$ The Microtext Reading Room:  Part II
+1058$ User Resistance to Microforms in the Research Library
+1059$ Microform Information Sources: Publications and Hardware
+1060$ Microforms in Libraries
+1061$ Milestones in Cataloging
+1062$ Patterns of Evaluation in Science: Institutionalization, Structure and Functions of the Referee System
+1063$ The Development of a Scientific Specialty: The Phage Group and the Origins of Molecular Biology
+1064$ Modern Manuscripts  A Practical Manual for Their Management, Care and Use
+1065$ Modern Organizations
+1066$ A Modern Outline of Library Classification
+1067$ Modern Systems Research for the Behavioral Scientist. A Sourcebook
+1068$ Monteith College Library Experiment
+1069$ Motivation and Personality
+1070$ The Motivation to Work
+1071$ An Integrated Health-Science Core Library for Physicians, Nurses and Allied Health Practitioners in Community Hospitals .A Stearns, Norman S.
+1072$ GREMAS - A System for Classification and Documentation in Organic Chemistry
+1073$ Automatic Construction of Thesauri and of Concept Systems for Dictionaries and Subject Lists
+1074$ The DK (Decimal Classification) - a Multi-Faceted Classification
+1075$ Possibilities for Revisions of the DK (Decimal Classification)
+1076$ The Documentation of Documentation
+1077$ Comments about Terminology in Documentation. II:  communication and Information
+1078$ Computerized Information Retrieval Services (Automatisierte Information Retrieval Dienste)
+1079$ National Aspects of Creating and Using MARC/RECON Records
+1080$ National Document-Handling Systems for Science and Technology
+1081$ Generalization of Epidemic Theory An Application to the Transmission of Ideas .A Goffman, W. Newill, V
+1082$ Mathematical Approach to the Spread of Scientific Ideas - The History of  Mast Cell Research
+1083$ Dispersion of Papers among Journals based on a Mathematical Analysis of Two Diverse Medical Literatures
+1084$ Information, Communication, Knowledge
+1085$ Bradford's Law and the Bibliography of Science
+1086$ Bradfod's Law and Library Acquisitions
+1087$ Citation Indexing for Studying Science
+1088$ Mathematical Approach to the Prediction of Scientific Discovery .A Goffman, William
+1089$ Scientific Information by Computer .A Lynch, J.T.
+1090$ Library Optimum
+1091$ Effectiveness of Combining Title Words and Index Terms in Machine Retrieval Searches
+1092$ Method for Relating the Structure and  Properties of Chemical Compounds
+1093$ Synthesis of Situations for a Stage of Scientific Activity
+1094$ Improving the Work of a Central Bureau of Technical Information
+1095$ Specialist's Requirements for Scientific Information
+1096$ Timing Data for Information Processes
+1097$ Scatter of Metallurgical Publications in Abstract Journals
+1098$ Concerning the Criterion for Evaluation of Current Secondary Information
+1099$ On Factors Influencing the Attitude of Scientists and Engineers towards Scientific Information
+1100$ On the Problem of Economic Efficiency Determination of Scientific and Technical Information
+1101$ The Psychologic Criteria of Information Selection
+1102$ Nature and Essence of Information Needs
+1103$ On Information Needs of Different User Categories
+1104$ Current Awareness Bibliographies in the State Information System .A Briskman, M
+1105$ Information Services for Supervisory Staff, Forms and Methods .A Kuznetsov, O.A.
+1106$ Efficiency of Information Service at a Research Institute (findings of a questionnaire survey) .A Zyabrev, V
+1107$ Principles of Selective Information Servicing of the Different Categories of R&D Staff .A Shekhurin, D.E.
+1108$ Information Value of VINITI-published abstract journals in patent studies .A Morozova, N
+1109$ A System of Documentary Information Flow Analysis (Science Journals)
+1110$ The pattern of the Information Needs of an R&D Institute and the System for Meeting Them
+1111$ On Informal Processes of Science Communications .A Markusova, V
+1112$ State System of Scientific and Technical Information: Results and Prospects
+1113$ Social and Economic Premises to the Development of an Information System
+1114$ Analysis of Information Flows in Shipbuilding and the Allied Fields
+1115$ Informational Reviews in the Age of Information Crisis
+1116$ Pragmatic Aspects of Scientific Information
+1117$ Mathematical Model of Classification Theory
+1118$ Methods for Thesaurus Generation
+1119$ Axiomatic Relevance Tolerance Theory
+1120$ A Grammatical Elements in a Descriptor Language for an  Information Retrieval System
+1121$ The Outlook of Cybernetic and Computer Applications in the National System of Scientific and Technical Information
+1122$ Analysis of Some Regularities of the Flow of Engineering Information .A Mitsevich, A. T.
+1123$ Rank Distribution in Scientific Information Sets
+1124$ Some Aspects of Developing and Studying a Descriptor Information Language for General Technology
+1125$ A Contribution to the Theory of the Systems of Information Flows
+1126$ Evaluation of Indexing and a Technique for Formalized Search Request Statement
+1127$ Evaluation of Information Loss Probability in Indexing
+1128$ Free Information of a Social System
+1129$ Creating an Information Language on the Basis of Semantic Text Analysis
+1130$ Aspect Abstracting:  A New Technique
+1131$ Algorithmic Procedure for Compiling a List of Keywords and Key Phrases by the Abstracts in "Fizika" Abstract Journal
+1132$ Debugging the Technologies of an Automated IRS in Electrical Engineering: a Case Study
+1133$ Thesauri in Informatics and in Theoretical Semantics
+1134$ Information Retrieval Learning
+1135$ An "Invisible College" for the Study of Experiment Planning
+1136$ Data Retrieval Systems:  Specifics and Problems
+1137$ Logic of Classification
+1138$ Relevance and Pertinence .A Polushkin, V
+1139$ The Language of an Polytechnical Automated Information Retrieval System
+1140$ On the Symbolic Nature of Classifications
+1141$ Algebra of Classification
+1142$ Science on science - Introduction to a general science of science
+1143$ A Study of Six University-Based Information Systems
+1144$ Automatic Indexing
+1145$ Neighborhood Information Centers A Study and Some Proposals
+1146$ Networks for Research and Education
+1147$ A Core Medical Library for Practitioners in Community Hospitals
+1148$ The New Industrial State
+1149$ The New Librarianship A Challenge for Change
+1150$ New Patterns of Management .A Mityaev, V
+1151$ Unintentional Duplication of Research A survey revealing instances of belated discovery of information in the literature leads to an estimate of what duplication costs
+1152$ Non-book Materials: The Organization of Integrated Collections
+1153$ Nonbook Materials: The Organization of Integrated Collections
+1154$ Nonparametric Statistics for the Behavioral Sciences
+1155$ A Study of Information Requests for Scientific Research and Design
+1156$ Formulation of Information Requests
+1157$ Definition of Active Stock
+1158$ Principles of Studying of Information Requests
+1159$ Characteristics of Text Structure Complexity .A Shreider, Y
+1160$ Methodological problems of scientific-technical literature typology
+1161$ Some problems of scientific information theory .A Shreider, Y
+1162$ On basic features of information retrieval language for information retrieval by title. Part 1 .A Stokolova, N
+1163$ The Thesaurus and some Methods of its Construction.  Part 1.
+1164$ On basic features of information retrieval language for information retrieval by title.
+1165$ Issues in the informational analysis of documents. .A Polushkin, V
+1166$ New Tasks of Information Services and Specialists Training Problem
+1167$ Prospects for Primary and Secondary Scientific Publications
+1168$ Analysis of Biological Publication Growth on the Basis of Periodical Sources .A Mityaev, V. A.
+1169$ The Emerging Science of Information
+1170$ Some Aspects of Subject Acquisition and Detailed Subject Retrieval of Patent Information
+1171$ Problems of Compatibility of Information on Retrieval Systems and  Requirements to the Language of an Information Network
+1172$ A Statistical Analysis of Published Articles on Electrical and Power Engineering
+1173$ A Probability Distribution in Information Flow Systems
+1174$ A Standard Format of Progress Reports on Scientific Technical Information
+1175$ Syntagmatic Relations Between Descriptors
+1176$ Techinical Bibliographies in Metallurgy
+1177$ On Rational Structure of a Science Journal Article
+1178$ Psychological Problems in Informatics and the Prospects of their Solution
+1179$ Topical Aspects of Informatics to-date
+1180$ A Notation for Coding Organic Compounds
+1181$ The Origins of the Information Crisis:  A Contribution to the Statement  of the Problem
+1182$ The Bibliography of Operational Research
+1183$ Operations Research:  Implications for Libraries
+1184$ Compact Book Storage in Libraries .A Leimkuhler, Ferdinand F.
+1185$ Experimentation in the Theory of Linguistic Description .A Melchuk, I
+1186$ Organization and Environment Managing Differentiation and Integration .A Lawrence, Paul R.
+1187$ Organizations
+1188$ Organizations in Action Social Science Bases of Administrative Theory
+1189$ Organizing Nonprint Material
+1190$ Basis of informatics
+1191$ Basis of Scientific Information
+1192$ Out of the Dinosaurus; the evaluation of the National Lending Library for Science and Technology
+1193$ An Overview of Operational Ballots
+1194$ Compaction of Names by X-grams
+1195$ Comparative Effects of Titles, Abstracts and Full Texts on Relevance  Judgements
+1196$ Retrieval of Bibliographic Entries from a Name-Title Catalog by Use of Truncated Search Keys
+1197$ Retrieval of Single Entries from a Computerized Library Catalog File
+1198$ Proceedings.  Conference on Interlibrary Communications and Information Networks
+1199$ A Method for the Construction of Minimum-Redundancy Codes
+1200$ On the Statistics of Individual Variations of Productivity in Research Laboratories
+1201$ Communication and Epidemic Processes
+1202$ Pattern Classification and Scene Analysis
+1203$ Patterns in the Use of books in Large Research Libraries
+1204$ Perceptions An Introduction to Computational Geometry
+1205$ Personnel Administration in Libraries
+1206$ Personnel Utilization in Libraries A Systems Approach
+1207$ Technical Information Project
+1208$ Keeping up with What's Going on in Physics  AIP's Current Physics Information program offers new products                       to help scientists and engineers stay up-to-date
+1209$ Is Journal Publication Obsolescent?
+1210$ Is There a Pecking Order in Physics Journals? Analysis of close to a million citations puts Physical Review at the top of the list, but the order changes when we adjust for "impact" and "immediacy."
+1211$ The Planning of Academic and Research Library Buildings
+1212$ Planning the College and University Library Building: A book for campus planners and architects
+1213$ Plans and Structure of Behavior .A Miller, G
+1214$ The Practice of Management
+1215$ PRECIS:  a manual of concept analysis and subject indexing
+1216$ Prejudices and Antipathies: A tract on the LC subject heads concerning people
+1217$ Prestige, Class and Mobility
+1218$ Principles of Numerical Taxonomy
+1219$ Principles of Operations Research with Applications to Managerial Decisions
+1220$ Nature of Information
+1221$ Problems in Organizing Library Collections
+1222$ Russian descriptor informatics dictionary
+1223$ Problems of Information Service
+1224$ On one model of semantic information theory .A Shreider, Y
+1225$ On semantic synthesis
+1226$ Evaluation of Methods of Formal Investigation of Texts in Dead Languages
+1227$ Production and Distribution
+1228$ The Prognostication of science
+1229$ The Application of Microform to Manual and Machine-readable Catalogues
+1230$ Book Selection from MARC Tapes: a Feasibility Study
+1231$ Prolegomena to Library Classification
+1232$ The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information .A Miller, G
+1233$ A Theory of Human Motivation
+1234$ Multidimensional Scaling by Optimizing Goodness of Fit to a Nonmetric Hypothesis
+1235$ Public Knowledge An Essay Concerning the Social Dimension of Science
+1236$ Public Libraries in Cooperative Systems; Administrative patterns for service
+1237$ Public Libraries as Culture and Social Centers: the origin of the concept
+1238$ Public Library and City
+1239$ Public Library Legislation
+1240$ The Public Library in the United States
+1241$ Publishers and Libraries
+1242$ Quantitative Methods
+1243$ Rare Book Librarianship
+1244$ Rate Distortion Theory A Mathematical Basis for Data Compression
+1245$ Reader in Documents of International Organizations
+1246$ Reader Instruction in Colleges and Universities
+1247$ Reader in Library Cooperation
+1248$ Reader in Library Service and the Computer
+1249$ Reader in Medical Librarianship
+1250$ Reader in Research Methods for Librarianship
+1251$ Reader in Technical Services
+1252$ The Recording of Library of Congress Bibliographical Data in Machine Form
+1253$ Relegation and Stock Control in Libraries .A Urquhart, J
+1254$ Report of an Investigation on Literature Searching by Research Scientists
+1255$ Report on the Testing and Analysis of an Investigation into the Comparative Efficiency of Indexing Systems
+1256$ The Growth of the Literature of Physics
+1257$ Research Libraries and Technology
+1258$ Resources and Bibliographic Support for a Nationwide Library Program Final Report to the National Commission for Libraries and Information Science
+1259$ Categories and Relators:  A New Scheme
+1260$ The Review of Scientific Instruments with Physics News and Views
+1261$ The Ring Index
+1262$ The Rise of Anthropological Theory
+1263$ Why Don't They Ask Questions?
+1264$ Cost of Computer Searching
+1265$ Rules for a Dictionary Catalog   .A Cutter, C
+1266$ Rules for a Dictionary Catalog .A Cutter, C
+1267$ Russian Declension .A Zaliznyak, A
+1268$ The Scholar and the Future of the Research Library
+1269$ Scholarly Reprint Publishing in the United States .A Nemeyer, C
+1270$ Science Since Babylon
+1271$ Is a Scientific Revolution Taking Place in Psychology?
+1272$ Is a Kuhnian Analysis Applicable to Psychology?
+1273$ Bibliographical Statistics as a Guide to Growth Points in Science
+1274$ The Structure of Scientific Literatures  II: Toward a Macro- and Microstructure for Science .A Griffith, B.C. Small, H.G. Stonehill, J
+1275$ College Libraries and Chemical Education
+1276$ Serial Literature Used by American Geologists
+1277$ Citation Indexes for Science
+1278$ Mathematical Evaluation of the Scientific Serial
+1279$ Identifying Significant Research
+1280$ Searching Natural Language Text by computer
+1281$ Relative Effectiveness of Document Titles and Abstracts for Determining Relevance of Documents
+1282$ Information Retrieval Systems .A Swets, J
+1283$ "Science Citation Index" - A New Dimension in Indexing
+1284$ Scientific Information Exchange in Psychology The immediate dissemination of research findings is described for one science.
+1285$ Networks of Scientific Papers
+1286$ Quantitative Growth of the Mathematical Literature
+1287$ Citation Indexing and Evaluation of Scientific Papers
+1288$ Project Hindsight
+1289$ Scientific Communication as a Social System
+1290$ The Future of Scientific Journals
+1291$ The Matthew Effect in Science
+1292$ Computer-Assisted Design of Complex Organic Synthesis
+1293$ Psychology:  Apprehension over a New Communications System
+1294$ Automatic Text Analysis
+1295$ Communication or Chaos?
+1296$ Computer-Based Chemical Information Services
+1297$ Communication in the Physical and Social Sciences
+1298$ Selective Dissemination and Indexing of Scientific Information
+1299$ Current Physics Information
+1300$ Coherent Social Groups in Scientific Change
+1301$ Citation Analysis as a Tool in Journal Evaluation
+1302$ The Ortega Hypothesis
+1303$ On-Line Services in Medicine and Beyond
+1304$ Citation Analysis .A Gouldsmit, S
+1305$ Copyright, Public Policy, and Information Technology
+1306$ Copyright:  Its Adequacy in Technological Societies
+1307$ Information Retrieval Systems .A Swets, J
+1308$ Science:  Growth and Change
+1309$ Science and Information Theory
+1310$ Two Paradigms for Scientific Knowledge?
+1311$ Is a Scientific Revolution Taking Place in Psychology? -  Doubts and Reservations
+1312$ The Development of Specialities in Science: the Case of X-ray Protein Crystallography
+1313$ The Structure of Scientific Literatures I:  Identifying and Graphing Specialities
+1314$ Popper's Mystification of Objective Knowledge
+1315$ The Scientific Community
+1316$ Scientific Knowledge
+1317$ Scientific Management of Library Operations
+1318$ Scientific and Technical Libraries: Their Organization and Administration
+1319$ Scientific and Technological Communication
+1320$ Scientists in Industry
+1321$ Scientists in Organizations Productive Climates for Research and Development
+1322$ Selecting Materials
+1323$ Issues in Semantics
+1324$ Serial Publications
+1325$ Simulation Teaching of Library Administration
+1326$ Dictionary of Terms in Information Theory
+1327$ The SMART Retrieval System Experiments in Automatic Document Processing
+1328$ Developments in Data Analysis
+1329$ The Social Construction of Reality A Treatise on the Sociology of Knowledge
+1330$ The Social Function of Science
+1331$ Social Mobility in Industrial Society
+1332$ Social Organization of Hamadryas Baboons
+1333$ The Social Psychology of Organizations
+1334$ Cognitive, Technical and Social Factors in the Growth of Radio Astronomy
+1335$ Career Contingencies and the Fate of Sociological Research
+1336$ "Exit, voice, and loyalty":  Further reflections and a survey of recent contributions
+1337$ Social Stratification in Science
+1338$ Notes and Letters
+1339$ The Social System of Science
+1340$ Social Theory and Social Structure
+1341$ Communication Nets in Science: Status and Citation Patterns in Animal Physiology
+1342$ Problem Areas and Research Networks in Science
+1343$ The Seven Sexes: A Study in the Sociology of a Phenomenon, or the  Replication of Experiments in Physics
+1344$ Some Correlates of a Citation Measure of Productivity in Science
+1345$ Competition and Social Control in Science: An Essay in Theory-Construction
+1346$ Patterns of Intellectual Influence in Scientific Research
+1347$ Inputs, Outputs, and the Prestige of University Science Departments
+1348$ Sociology and Modern system Theory
+1349$ Sources of Information in the Social Sciences
+1350$ Soviet Bibliography
+1351$ The Special Cataloguing
+1352$ Evolving the 90% Pharmaceutical Library .A Basile, V
+1353$ How to Survive in Industry Cost Justifying Library Services
+1354$ Cooperation Between Academic and Special Libraries
+1355$ Rational Selection of Primary Journals for a Biomedical Research Library: The Use of Secondary Journal Citation .A Windsor, D
+1356$ The Scientist Versus Machine Search Services: We are the Missing Link
+1357$ Freud, Frug, and Feedback
+1358$ System Design, Evaluation, and Costing
+1359$ Time and Motion Study of Library Operations .A Kozumplik, W
+1360$ Program Planning and Budget Theory Improved Library Effectiveness by Use of the Planning-Programming-Budgeting System
+1361$ User Needs and Their Effect on Information Center Administration A Review 1953/66
+1362$ The CAN/SDI Project Th SDI Program of Canada's National Science Library
+1363$ Current Awareness Publications An Evaluation
+1364$ The New York Times Information Bank
+1365$ Centralization vs. Decentralization: A Location Analysis Approach for Librarians
+1366$ The Computerized File Management System
+1367$ A Campus-Based Information Center
+1368$ Computer-Based Bibliographic Retrieval Services
+1369$ Journal Usage Survey Method and Application
+1370$ Computer Literature Searches in the Physical Sciences
+1371$ Computer-Output Microfilm
+1372$ A Comparison of Manual and Machine Literature Searches
+1373$ How Do Scientists Meet Their Information Needs?
+1374$ Cost Comparison of Manual and On-Line Computerized Literature Searching .A Elman, S
+1375$ User Criteria for Selection of Commercial On-Line Computer-Based  Bibliographic Services
+1376$ Criteria for Evaluation and Selection of Data Bases and Data Base Services
+1377$ On-Line Reference Retrieval in a Public Library
+1378$ Standards for Library Service: An International Survey
+1379$ State Library Policy
+1380$ Statistical Bibliography in Relation to the Growth of Modern Civilization
+1381$ Statistical Methods for the Study of Lexicon
+1382$ Statistics and Semantics .A Moskovich, V
+1383$ Strategies for Change in Information Programs
+1384$ A Strategy for Public Library Change
+1385$ Structural Models:  an introduction to the theory of directed graphs
+1386$ The Structure of Scientific Revolutions
+1387$ The Structure of Scientific Revolutions
+1388$ Structure of Discourse
+1389$ Studies in Ethnomethodology
+1390$ A Study of the Characteristics, Cost and Magnitude of Interlibrary Loans in Academic Libraries
+1391$ A Study of General Categories Applicable to Classification and Coding in Documentation
+1392$ Subject Analysis: Computer Implications of Rigorous Definator
+1393$ The Subject Approach to Information
+1394$ Subject Catalogues Heading and Structure
+1395$ Subject Headings: A Practical Guide
+1396$ Survey of Commercially Available Computer-Readable Bibliographic Data Bases
+1397$ Survey of the Interlibrary Loan Operation of the National Library of Medicine
+1398$ Switching and Finite Automata Theory
+1399$ Syntactic Structures
+1400$ Systematic Analysis of University Libraries .A Raffel, J
+1401$ Systems Analysis of a University Library; final report on a research project
+1402$ Systems Approach
+1403$ Targets for Research in Library Education
+1404$ Technical Libraries; users and their demands: a classification of user groups and user demands in technical libraries
+1405$ Techniques of Information Retrieval
+1406$ Technology; economic growth and public policy
+1407$ Technology, Information, and Organization Information Transfer in Industrial R and D
+1408$ Technology and Information Transfer
+1409$ Text, Machine, and Man
+1410$ Telefacsimile in Libraries
+1411$ Probability Theory
+1412$ Terminology of Documentation
+1413$ Thesaurus Construction
+1414$ The Thesaurus in Retrieval
+1415$ Computer-Based Selective Dissemination of Information (SDI) Service for Faculty Using Library of Congress Machine-Readable Catalog (MARC) Records
+1416$ Synthesis, Identification and Control of Distributed Parameter Systems
+1417$ Least Cost Decision Rules for the Selection of Library Materials for Compact Storage
+1418$ Journal Usage Patterns and their Implications in the Planning of Library Systems
+1419$ Utility of Automatic Classification Systems for Information Storage and Retrieval
+1420$ Time-Lag in Cataloging
+1421$ Title Derivative Indexing Techniques; a comparative study
+1422$ Towards Information Retrieval .A Fairthorne, R
+1423$ Training for Library Service:  a report prepared for the Carnegie Corporation of New York
+1424$ University Library Administration
+1425$ Undergraduate Library
+1426$ Understanding Media: The Extensions of Man
+1427$ Understanding Media:  the extensions of man
+1428$ Understanding Scientific Literatures: A Bibliographic Approach
+1429$ The Universal Decimal Classification
+1430$ The Universal Decimal Classification and Technical Information Indexing
+1431$ The Intermediate Lexicon
+1432$ The Ranking of Biomedical Periodicals from the Indian Scientist's Point of View
+1433$ Universal Bibliographical Control (UBC)
+1434$ Cataloguing in Publication:  A New Programme of Pre-Publication Cataloguing in the United States of America, with Comments on some Similar Programmes
+1435$ International Standardization of Cataloguing and Bibliographical Records:   The Work of the IFLA Committee on Cataloguing
+1436$ ISDS and the Functions and Activities of National Centres
+1437$ NATIS: the theme for the 1970s
+1438$ An Unhurried View of Copyright
+1439$ Union Library Catalogs in the United States
+1440$ Book Availability and the Library User
+1441$ Universal Bibliographic Control
+1442$ The Universal Decimal Classification
+1443$ Universals in Linguistic Theory
+1444$ The Case of Citation Data in Writing the History of Science
+1445$ User Requirements in Identifying Desired Works in Large Libraries .A Lipetz, B
+1446$ Distill or Drown:  The Need for Reviews
+1447$ Information, Communication, Knowledge
+1448$ Vocabulary Control for Information Retrieval
+1449$ The Weapons Acquisitition Process: An Economic Analysis
+1450$ Weeding Library Collections
+1451$ Some Behavioral Patterns of Library Users:  The 80/20 rule
+1452$ The Wiswesser Line-Formula Chemical Notation (WLN)
+1453$ Women in Librarianship
+1454$ Work and Motivation
+1455$ Work and the Nature of Man
+1456$ World Dynamics
+1457$ World Trends in Library Education
+1458$ Legal Restrictions on Exploitation of the Patent Monopoly: An Economic Analysis .A Baxter, W
+1459$ Language and Thought .A Poluskin, V
+1460$ Modern Integral Information Systems for Chemistry and Chemical Technology

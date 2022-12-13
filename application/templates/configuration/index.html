@@ -1,0 +1,51 @@
+{% extends 'layout.html' %} {% block main %}
+<main class="w-3/4 mx-auto space-y-2 my-2">
+	<h1 class="font-bold text-2xl capitalize">configuration</h1>
+	<form action="/configuration" method="post" class="space-y-6">
+		{% for configuration_name, configuration_core in configurations.items() %}
+		<section class="space-y-1 capitalize">
+			<h2 class="font-bold text-lg">{{ configuration_name }}</h2>
+			<select
+				name="{{ configuration_core.variable_name }}"
+				id="{{ configuration_core.variable_name }}"
+				class="border-2 border-black rounded p-2 w-full"
+			>
+				{% for option_variable, option_name in
+				configuration_core.options.items() %}
+				<option value="{{ option_variable }}">{{ option_name }}</option>
+				{% endfor %}
+			</select>
+		</section>
+		{% endfor %}
+		<section class="space-y-1 capitalize hidden" id="B">
+			<h2 class="font-bold text-lg">B</h2>
+			<input
+				required
+				type="number"
+				name="B"
+				class="w-full border-2 border-black rounded p-2"
+				value="0.5"
+				min="0.5"
+				max="0.75"
+			/>
+		</section>
+		<section class="space-y-1 capitalize hidden" id="K">
+			<h2 class="font-bold text-lg">K</h2>
+			<input
+				required
+				type="number"
+				name="K"
+				class="w-full border-2 border-black rounded p-2"
+				value="1.2"
+				min="1.2"
+				max="2.0"
+			/>
+		</section>
+		<button
+			class="capitalize w-full rounded bg-black text-white font-bold p-2 border-2 border-black hover:bg-gray-900"
+		>
+			ok
+		</button>
+	</form>
+</main>
+{% endblock %}
