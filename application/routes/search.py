@@ -29,7 +29,7 @@ def post_search():
 
     query = request.form["query"]
 
-    print(f"running with the query \"{query}\" and similarity function {environment.configuration['rsv_function']}")
+    # print(f"running with the query \"{query}\" and similarity function {environment.configuration['rsv_function']}")
 
     rsv_function = environment.rsv_functions_mapping[environment.configuration["rsv_function"]]
 

@@ -37,6 +37,14 @@ def populate():
     normalization_algorithms = environment.normalization_algorithms.keys()
     possible_configurations = product(term_extraction_methods, normalization_algorithms)
 
+    document_name_mapping = {}
+    with open(os.path.join("documents", "names.txt"), "r") as names_file:
+        names = names_file.read()
+    names_file_split = names.splitlines()
+    names_file_split = [identifier_name.split("$ ") for identifier_name in names_file_split]
+    for identifier, title in names_file_split:
+        document_name_mapping.update({ identifier: title })
+
     files = os.listdir(os.path.join(".", "documents"))
     files = [file for file in files if file not in ["__init__.py", "main.py", "names.txt"]]
 
@@ -45,7 +53,7 @@ def populate():
         document_id = file.split(".")[0]
         with open(os.path.join("documents", file), "r") as input_file:
                 file_content = input_file.read()
-                files_content[document_id] = file_content
+                files_content[document_id] = f"{file_content}\n{document_name_mapping[document_id]}"
 
     all_terms = []
 
@@ -77,9 +85,9 @@ def populate():
 
             # applying the right normalization method
             if normalization_algorithm == "porter":
-                stemmed_terms = sorted([porter_stemmer.stem(term).lower() for term in terms if term != "" and term not in stopwords])
+                stemmed_terms = sorted([porter_stemmer.stem(term).lower() for term in terms if term.lower() != "" and term.lower() not in stopwords and porter_stemmer.stem(term.lower()) not in stopwords])
             elif normalization_algorithm == "lancaster":
-                stemmed_terms = sorted([lancaster_stemmer.stem(term).lower() for term in terms if term != "" and term not in stopwords])
+                stemmed_terms = sorted([lancaster_stemmer.stem(term).lower() for term in terms if term.lower() != "" and term.lower() not in stopwords and lancaster_stemmer.stem(term.lower()) not in stopwords])
             
             all_terms += stemmed_terms
             document_term_frequency[document_id] = Counter(stemmed_terms)
@@ -105,7 +113,7 @@ def populate():
 
 def genocide():
     files = os.listdir(os.path.join("inverse"))
-    files = [file for file in files if file not in ["main.py", "__init__.py"]]
+    files = [file for file in files if file not in ["main.py", "__init__.py", "inverse.py"]]
     
     for file in files:
         os.remove(os.path.join("inverse", file))
