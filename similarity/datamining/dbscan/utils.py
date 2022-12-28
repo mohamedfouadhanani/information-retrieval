@@ -6,12 +6,12 @@ sys.path.append(os.getcwd())
 from matplotlib import pyplot as plt
 import colorsys
 
-from similarity.dbscan.cluster import Cluster
-from similarity.dbscan.point import Point
+from similarity.datamining.dbscan.cluster import Cluster
+from similarity.datamining.dbscan.point import Point
 
 from typing import List
 
-from similarity.dbscan.metrics import interclusters_distance, intraclusters_distance
+from similarity.datamining.dbscan.metrics import interclusters_distance, intraclusters_distance
 
 def HSVToRGB(h, s, v): 
 	(r, g, b) = colorsys.hsv_to_rgb(h, s, v) 

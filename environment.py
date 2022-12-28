@@ -3,7 +3,7 @@ from similarity.cosine import run as run_cosine
 from similarity.jaccard import run as run_jaccard
 from similarity.boolean import run as run_boolean
 from similarity.bm25 import run as run_bm25
-from similarity.dbscan.dbscan import run as run_datamining
+from similarity.datamining.datamining import run as run_datamining
 
 def init():
     global round_to

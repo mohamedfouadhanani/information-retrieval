@@ -3,7 +3,7 @@ import sys
 
 sys.path.append(os.getcwd())
 
-from similarity.dbscan.point import Point
+from similarity.datamining.dbscan.point import Point
 
 from typing import List
 
