@@ -3,6 +3,7 @@ from similarity.cosine import run as run_cosine
 from similarity.jaccard import run as run_jaccard
 from similarity.boolean import run as run_boolean
 from similarity.bm25 import run as run_bm25
+from similarity.dbscan.dbscan import run as run_datamining
 
 def init():
     global round_to
@@ -27,6 +28,7 @@ def init():
         "Jaccard": "jaccard measure",
         "boolean": "boolean",
         "bm25": "BM25",
+        "datamining": "data mining"
     }
 
     global configurations
@@ -64,6 +66,7 @@ def init():
         "Jaccard": run_jaccard,
         "boolean": run_boolean,
         "bm25": run_bm25,
+        "datamining": run_datamining
     }
 
 if __name__ == "__main__":

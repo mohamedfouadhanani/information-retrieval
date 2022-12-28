@@ -1,6 +1,9 @@
 import os
 import sys
 import nltk
+import numpy as np
+
+from time import time
 
 current_working_directory = os.getcwd()
 sys.path.append(current_working_directory)
@@ -26,7 +29,14 @@ class Inverse:
             self.unique_documents.add(document)
             self.unique_terms.add(term)
         
+        self.document_index_mapping = {document: index for index, document in enumerate(self.unique_documents)}
         self.term_index_mapping = {term: index for index, term in enumerate(self.unique_terms)}
+
+        # inverse matrix initialization
+        n_docs = len(self.unique_documents)
+        n_terms = len(self.unique_terms)
+
+        self.inverse_matrix = np.zeros((n_docs, n_terms))
         
         # document term (frequency / weight)
         self.document_term_frequency = {document: {} for document in self.unique_documents}
@@ -45,6 +55,11 @@ class Inverse:
 
             self.wj_squared_sum[document] += weight ** 2
             self.document_length[document] += frequency
+
+            document_index = self.document_index_mapping[document]
+            term_index = self.term_index_mapping[term]
+
+            self.inverse_matrix[document_index, term_index] = weight
         
         self.average_document_length = sum(self.document_length.values()) / len(self.unique_documents)
         
@@ -121,8 +136,19 @@ class Inverse:
             return {document: 0 for document in self.unique_documents}
         
         return self.term_document_frequency[stemmed_term]
+    
+    def get_inverse_matrix(self):
+        return self.inverse_matrix
 
 
 if __name__ == "__main__":
+    start = time()
     inverse = Inverse(extraction_method="split", normalization_algorithm="lancaster")
-    print(inverse.weight(document="1", term="dewey"))
+    finish = time()
+
+    duration = round(finish - start)
+
+    print(f"done loading inverse file in {duration} seconds")
+    
+    # print(inverse.weight(document="1", term="dewey"))
+    # print(inverse.get_inverse_matrix())

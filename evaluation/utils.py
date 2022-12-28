@@ -105,20 +105,20 @@ if __name__ == "__main__":
     # precision = precision_at(10, [1, 2, 3, 4, 5, 6, 7, 8, 9, 10], [1, 2, 4, 6])
     # print(precision)
 
-    precision = precision_at(14, [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], [1, 2, 4, 6, 13, 97, 98, 99])
+    precision_value = precision_at(14, [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], [1, 2, 4, 6, 13, 97, 98, 99])
     # print(precision)
 
     recall_value = recall_at(14, [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], [1, 2, 4, 6, 13, 22])
     # print(recall_value)
 
-    precision_recall = list(zip(precision, recall_value))
+    precision_recall = list(zip(precision_value, recall_value))
     # print(precision_recall)
     
-    precision = [1, 1, 0.75, 0.667, 0.38]
+    precision_value = [1, 1, 0.75, 0.667, 0.38]
     recall_value = [0.167, 0.333, 0.5, 0.667, 0.833]
 
     precision_recall = list(zip(precision, recall_value))
 
     interpolated = precision_interpolation(precision_recall)
-    for recall_value, precision in interpolated:
-        print(f"{recall_value} = {precision}")
+    # for recall_value, precision in interpolated:
+    #     print(f"{recall_value} = {precision}")
